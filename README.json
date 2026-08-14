@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T01:06:52Z",
+            "last_commit": "2026-08-14T15:27:19Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110169
+            "stars": 110192
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-02-11T04:21:43Z",
             "owner": "dzharii",
             "repo": "awesome-typescript",
-            "stars": 5117
+            "stars": 5118
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2019-08-23T00:06:50Z",
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11035
+            "stars": 11036
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2019-10-09T00:06:11Z",
             "owner": "microsoft",
             "repo": "TypeScript-Vue-Starter",
-            "stars": 4419
+            "stars": 4420
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2023-05-07T10:26:52Z",
             "owner": "w3tecch",
             "repo": "express-typescript-boilerplate",
-            "stars": 3416
+            "stars": 3415
           }
         },
         {
@@ -412,10 +412,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T18:01:01Z",
+            "last_commit": "2026-08-14T11:48:26Z",
             "owner": "Marve10s",
             "repo": "Better-Fullstack",
-            "stars": 708
+            "stars": 709
           }
         },
         {
@@ -647,7 +647,7 @@
             "last_commit": "2025-11-19T13:18:33Z",
             "owner": "inversify",
             "repo": "InversifyJS",
-            "stars": 12073
+            "stars": 12074
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-07-31T16:34:13Z",
             "owner": "inferdi",
             "repo": "inferdi",
-            "stars": 68
+            "stars": 70
           }
         }
       ],
@@ -695,7 +695,7 @@
             "last_commit": "2026-08-12T12:50:46Z",
             "owner": "protobufjs",
             "repo": "protobuf.js",
-            "stars": 10579
+            "stars": 10580
           }
         },
         {
@@ -709,7 +709,7 @@
             "last_commit": "2023-01-12T08:48:56Z",
             "owner": "basarat",
             "repo": "typescript-collections",
-            "stars": 1207
+            "stars": 1206
           }
         },
         {
@@ -772,7 +772,7 @@
             "last_commit": "2026-08-13T06:47:32Z",
             "owner": "typeorm",
             "repo": "typeorm",
-            "stars": 36627
+            "stars": 36630
           }
         },
         {
@@ -783,10 +783,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T22:17:54Z",
+            "last_commit": "2026-08-14T17:10:07Z",
             "owner": "mikro-orm",
             "repo": "mikro-orm",
-            "stars": 9167
+            "stars": 9170
           }
         },
         {
@@ -825,17 +825,17 @@
                 "last_commit": "2026-08-12T13:44:33Z",
                 "owner": "samchon",
                 "repo": "nestia",
-                "stars": 2172
+                "stars": 2173
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T16:52:47Z",
+            "last_commit": "2026-08-14T18:27:07Z",
             "owner": "nestjs",
             "repo": "nest",
-            "stars": 76370
+            "stars": 76377
           }
         },
         {
@@ -894,10 +894,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-13T16:49:37Z",
+            "last_commit": "2026-08-14T04:18:31Z",
             "owner": "Simon-He95",
             "repo": "markstream-vue",
-            "stars": 2882
+            "stars": 2883
           }
         },
         {
@@ -1015,7 +1015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:45:19.657Z",
+    "last_updated": "2026-08-14T18:39:05.121Z",
     "original_repository": "semlinker/awesome-typescript",
     "original_repository_sha": "fa1ca825aa926b4bc981eaf7095fefa16c2188fa",
     "enhanced_repository": "enhansome/enhansome-typescript",
