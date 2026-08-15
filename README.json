@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:27:19Z",
+            "last_commit": "2026-08-14T19:07:48Z",
             "owner": "microsoft",
             "repo": "TypeScript",
-            "stars": 110192
+            "stars": 110165
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-05-29T19:52:44Z",
             "owner": "typescript-cheatsheets",
             "repo": "react",
-            "stars": 47101
+            "stars": 47103
           }
         },
         {
@@ -272,10 +272,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T18:00:58Z",
+            "last_commit": "2026-08-14T23:52:19Z",
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23665
+            "stars": 23666
           }
         },
         {
@@ -412,10 +412,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T11:48:26Z",
+            "last_commit": "2026-08-15T11:29:11Z",
             "owner": "Marve10s",
             "repo": "Better-Fullstack",
-            "stars": 709
+            "stars": 710
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2026-08-13T06:50:39Z",
             "owner": "bcherny",
             "repo": "json-schema-to-typescript",
-            "stars": 3329
+            "stars": 3330
           }
         },
         {
@@ -613,7 +613,7 @@
             "last_commit": "2021-03-25T15:41:38Z",
             "owner": "palantir",
             "repo": "tslint",
-            "stars": 5903
+            "stars": 5904
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-07-31T16:34:13Z",
             "owner": "inferdi",
             "repo": "inferdi",
-            "stars": 70
+            "stars": 71
           }
         }
       ],
@@ -695,7 +695,7 @@
             "last_commit": "2026-08-12T12:50:46Z",
             "owner": "protobufjs",
             "repo": "protobuf.js",
-            "stars": 10580
+            "stars": 10579
           }
         },
         {
@@ -772,7 +772,7 @@
             "last_commit": "2026-08-13T06:47:32Z",
             "owner": "typeorm",
             "repo": "typeorm",
-            "stars": 36630
+            "stars": 36628
           }
         },
         {
@@ -783,7 +783,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T17:10:07Z",
+            "last_commit": "2026-08-15T17:12:51Z",
             "owner": "mikro-orm",
             "repo": "mikro-orm",
             "stars": 9170
@@ -800,7 +800,7 @@
             "last_commit": "2024-04-20T03:54:41Z",
             "owner": "sequelize",
             "repo": "sequelize-typescript",
-            "stars": 2837
+            "stars": 2838
           }
         }
       ],
@@ -832,10 +832,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:27:07Z",
+            "last_commit": "2026-08-15T18:07:41Z",
             "owner": "nestjs",
             "repo": "nest",
-            "stars": 76377
+            "stars": 76382
           }
         },
         {
@@ -849,7 +849,7 @@
             "last_commit": "2026-08-07T09:12:05Z",
             "owner": "thinkjs",
             "repo": "thinkjs",
-            "stars": 5270
+            "stars": 5269
           }
         },
         {
@@ -897,7 +897,7 @@
             "last_commit": "2026-08-14T04:18:31Z",
             "owner": "Simon-He95",
             "repo": "markstream-vue",
-            "stars": 2883
+            "stars": 2888
           }
         },
         {
@@ -1015,7 +1015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:39:05.121Z",
+    "last_updated": "2026-08-15T18:11:58.535Z",
     "original_repository": "semlinker/awesome-typescript",
     "original_repository_sha": "fa1ca825aa926b4bc981eaf7095fefa16c2188fa",
     "enhanced_repository": "enhansome/enhansome-typescript",
