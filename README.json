@@ -1,268 +1,280 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Microsoft - TypeScript 2.4 新特性一览",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20929025,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T19:07:48Z",
+                "owner": "microsoft",
+                "repo": "TypeScript",
+                "stars": 110204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neal1991 - 采用 Flow 以及 TypeScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64222773,
+                "language": null,
+                "last_commit": "2026-04-06T14:37:19Z",
+                "owner": "madneal",
+                "repo": "articles-translator",
+                "stars": 621
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Features"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Microsoft - TypeScript-Handbook",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 33742985,
+                    "language": "JavaScript",
+                    "last_commit": "2020-08-01T19:54:09Z",
+                    "owner": "microsoft",
+                    "repo": "TypeScript-Handbook",
+                    "stars": 4850
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TypeStrong - Learn TypeScript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47471325,
+                    "language": "TypeScript",
+                    "last_commit": "2022-02-06T21:28:31Z",
+                    "owner": "TypeStrong",
+                    "repo": "learn-typescript",
+                    "stars": 707
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Tutorials"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Microsoft - TypeScriptSamples",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 21831014,
+                    "language": "TypeScript",
+                    "last_commit": "2020-03-25T02:45:32Z",
+                    "owner": "microsoft",
+                    "repo": "TypeScriptSamples",
+                    "stars": 3183
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lemoncode - react-typescript-samples",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52718939,
+                    "language": "TypeScript",
+                    "last_commit": "2023-04-02T23:03:07Z",
+                    "owner": "Lemoncode",
+                    "repo": "react-typescript-samples",
+                    "stars": 1853
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DanWahlin - Angular-JumpStart",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44285150,
+                    "language": "TypeScript",
+                    "last_commit": "2026-02-14T10:06:32Z",
+                    "owner": "DanWahlin",
+                    "repo": "Angular-JumpStart",
+                    "stars": 1590
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "luixaviles - socket-io-typescript-chat",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 73436648,
+                    "language": "TypeScript",
+                    "last_commit": "2023-04-22T05:06:57Z",
+                    "owner": "luixaviles",
+                    "repo": "socket-io-typescript-chat",
+                    "stars": 825
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jaysoo - todomvc-redux-react-typescript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43069121,
+                    "language": "TypeScript",
+                    "last_commit": "2019-10-31T02:52:50Z",
+                    "owner": "jaysoo",
+                    "repo": "todomvc-redux-react-typescript",
+                    "stars": 675
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "dwyl - hapi-typescript-example",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 50255059,
+                    "language": "TypeScript",
+                    "last_commit": "2019-05-18T19:14:30Z",
+                    "owner": "dwyl",
+                    "repo": "hapi-typescript-example",
+                    "stars": 353
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "chsakell - aspnet5-angular2-typescript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 48852087,
+                    "language": "C#",
+                    "last_commit": "2019-03-25T17:22:58Z",
+                    "owner": "chsakell",
+                    "repo": "aspnet5-angular2-typescript",
+                    "stars": 345
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Samples"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "sw-yx - react-typescript-cheatsheet",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 135786093,
+                    "language": "TypeScript",
+                    "last_commit": "2026-05-29T19:52:44Z",
+                    "owner": "typescript-cheatsheets",
+                    "repo": "react",
+                    "stars": 47100
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "piotrwitek - react-redux-typescript-guide",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 76996763,
+                    "language": "TypeScript",
+                    "last_commit": "2026-05-09T10:54:40Z",
+                    "owner": "piotrwitek",
+                    "repo": "react-redux-typescript-guide",
+                    "stars": 13272
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Guide"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "dzharii - awesome-typescript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 36996520,
+                    "language": null,
+                    "last_commit": "2026-02-11T04:21:43Z",
+                    "owner": "dzharii",
+                    "repo": "awesome-typescript",
+                    "stars": 5117
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "brookshi - awesome-typescript-projects",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 82440765,
+                    "language": "TypeScript",
+                    "last_commit": "2023-06-13T19:31:34Z",
+                    "owner": "brookshi",
+                    "repo": "awesome-typescript-projects",
+                    "stars": 894
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Awesome"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "English"
+        }
+      ],
       "title": "TypeScript Tutorials"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Microsoft - TypeScript 2.4 新特性一览",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T19:07:48Z",
-            "owner": "microsoft",
-            "repo": "TypeScript",
-            "stars": 110193
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Neal1991 - 采用 Flow 以及 TypeScript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-06T14:37:19Z",
-            "owner": "madneal",
-            "repo": "articles-translator",
-            "stars": 621
-          }
-        }
-      ],
-      "title": "Features"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Chinese"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "English"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Microsoft - TypeScript-Handbook",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2020-08-01T19:54:09Z",
-            "owner": "microsoft",
-            "repo": "TypeScript-Handbook",
-            "stars": 4850
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeStrong - Learn TypeScript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-02-06T21:28:31Z",
-            "owner": "TypeStrong",
-            "repo": "learn-typescript",
-            "stars": 707
-          }
-        }
-      ],
-      "title": "Tutorials"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Microsoft - TypeScriptSamples",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2020-03-25T02:45:32Z",
-            "owner": "microsoft",
-            "repo": "TypeScriptSamples",
-            "stars": 3183
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lemoncode - react-typescript-samples",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-04-02T23:03:07Z",
-            "owner": "Lemoncode",
-            "repo": "react-typescript-samples",
-            "stars": 1852
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DanWahlin - Angular-JumpStart",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-14T10:06:32Z",
-            "owner": "DanWahlin",
-            "repo": "Angular-JumpStart",
-            "stars": 1591
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "luixaviles - socket-io-typescript-chat",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-04-22T05:06:57Z",
-            "owner": "luixaviles",
-            "repo": "socket-io-typescript-chat",
-            "stars": 825
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jaysoo - todomvc-redux-react-typescript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-10-31T02:52:50Z",
-            "owner": "jaysoo",
-            "repo": "todomvc-redux-react-typescript",
-            "stars": 675
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dwyl - hapi-typescript-example",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-05-18T19:14:30Z",
-            "owner": "dwyl",
-            "repo": "hapi-typescript-example",
-            "stars": 352
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chsakell - aspnet5-angular2-typescript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2019-03-25T17:22:58Z",
-            "owner": "chsakell",
-            "repo": "aspnet5-angular2-typescript",
-            "stars": 345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rangle - typescript-react-redux-example",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "Samples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "sw-yx - react-typescript-cheatsheet",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-29T19:52:44Z",
-            "owner": "typescript-cheatsheets",
-            "repo": "react",
-            "stars": 47100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "piotrwitek - react-redux-typescript-guide",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-09T10:54:40Z",
-            "owner": "piotrwitek",
-            "repo": "react-redux-typescript-guide",
-            "stars": 13272
-          }
-        }
-      ],
-      "title": "Guide"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "dzharii - awesome-typescript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2026-02-11T04:21:43Z",
-            "owner": "dzharii",
-            "repo": "awesome-typescript",
-            "stars": 5117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "brookshi - awesome-typescript-projects",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-06-13T19:31:34Z",
-            "owner": "brookshi",
-            "repo": "awesome-typescript-projects",
-            "stars": 894
-          }
-        }
-      ],
-      "title": "Awesome"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -271,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18840003,
             "language": "TypeScript",
             "last_commit": "2026-08-16T20:59:22Z",
             "owner": "kriasoft",
@@ -285,11 +298,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90786246,
             "language": "TypeScript",
             "last_commit": "2019-08-23T00:06:50Z",
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11034
+            "stars": 11033
           }
         },
         {
@@ -299,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90786593,
             "language": "JavaScript",
             "last_commit": "2019-10-09T00:06:11Z",
             "owner": "microsoft",
@@ -313,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 76130347,
             "language": "JavaScript",
             "last_commit": "2019-08-21T21:31:39Z",
             "owner": "wmonk",
@@ -327,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80701067,
             "language": "TypeScript",
             "last_commit": "2023-03-06T20:25:44Z",
             "owner": "bitjson",
@@ -341,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89909577,
             "language": "TypeScript",
             "last_commit": "2023-05-07T10:26:52Z",
             "owner": "w3tecch",
@@ -355,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66166156,
             "language": "TypeScript",
             "last_commit": "2026-06-30T11:11:08Z",
             "owner": "jsynowiec",
@@ -369,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 118187783,
             "language": "TypeScript",
             "last_commit": "2022-08-15T21:15:29Z",
             "owner": "microsoft",
@@ -383,6 +403,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90786476,
             "language": "Objective-C",
             "last_commit": "2022-08-31T15:21:41Z",
             "owner": "microsoft",
@@ -397,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77309872,
             "language": "TypeScript",
             "last_commit": "2023-05-28T10:23:27Z",
             "owner": "rokoroku",
@@ -411,11 +433,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1134202023,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:09:49Z",
+            "last_commit": "2026-08-19T12:33:23Z",
             "owner": "Marve10s",
             "repo": "Better-Fullstack",
-            "stars": 713
+            "stars": 715
           }
         },
         {
@@ -425,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90786663,
             "language": "TypeScript",
             "last_commit": "2022-11-28T19:11:54Z",
             "owner": "microsoft",
@@ -439,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73234533,
             "language": "TypeScript",
             "last_commit": "2018-05-28T01:16:22Z",
             "owner": "blove",
@@ -453,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68607771,
             "language": "TypeScript",
             "last_commit": "2026-03-01T02:05:41Z",
             "owner": "Kamahl19",
@@ -467,556 +493,578 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90787275,
             "language": "HTML",
             "last_commit": "2017-05-09T20:58:28Z",
             "owner": "microsoft",
             "repo": "TypeScript-Knockout-Starter",
             "stars": 83
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Microsoft - TypeScript-Node-Starter",
-          "description": null,
-          "children": []
         }
       ],
       "title": "TypeScript Starters/Boilerplates"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "TypeScript Videos"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "TypeScript Books"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "TypeScript Tools/Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Build"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "TypeStrong - ts-loader",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T09:30:25Z",
-            "owner": "TypeStrong",
-            "repo": "ts-loader",
-            "stars": 3479
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "s-panferov - awesome-typescript-loader",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2019-10-31T17:37:45Z",
-            "owner": "s-panferov",
-            "repo": "awesome-typescript-loader",
-            "stars": 2338
-          }
-        }
-      ],
-      "title": "webpack"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AssemblyScript - assemblyscript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "WebAssembly",
-            "last_commit": "2026-07-22T02:56:30Z",
-            "owner": "AssemblyScript",
-            "repo": "assemblyscript",
-            "stars": 17989
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeStrong - ts-node",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-18T18:14:16Z",
-            "owner": "TypeStrong",
-            "repo": "ts-node",
-            "stars": 13127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bcherny - json-schema-to-typescript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T06:50:39Z",
-            "owner": "bcherny",
-            "repo": "json-schema-to-typescript",
-            "stars": 3333
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "YousefED - typescript-json-schema",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-14T15:28:20Z",
-            "owner": "YousefED",
-            "repo": "typescript-json-schema",
-            "stars": 3267
-          }
-        }
-      ],
-      "title": "compiler"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "palantir - tslint",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2021-03-25T15:41:38Z",
-            "owner": "palantir",
-            "repo": "tslint",
-            "stars": 5903
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Open Code Review",
-          "description": "AI code quality gate detecting hallucinated packages, phantom dependencies, stale APIs, and AI-specific code defects. MCP Server + CLI + CI/CD.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-16T06:01:23Z",
-            "owner": "raye-deng",
-            "repo": "open-code-review",
-            "stars": 33
-          }
-        }
-      ],
-      "title": "linter"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Inversify - InversifyJS",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-19T13:18:33Z",
-            "owner": "inversify",
-            "repo": "InversifyJS",
-            "stars": 12074
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Inversify - inversify-express-example",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2024-03-26T10:26:30Z",
-            "owner": "inversify",
-            "repo": "inversify-express-example",
-            "stars": 269
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InferDI",
-          "description": "Type-safe, decorator-free dependency injection container for modern TypeScript with framework adapters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T14:19:48Z",
-            "owner": "inferdi",
-            "repo": "inferdi",
-            "stars": 71
-          }
-        }
-      ],
-      "title": "Ioc"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "dcodeIO - protobuf.js",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-16T16:58:45Z",
-            "owner": "protobufjs",
-            "repo": "protobuf.js",
-            "stars": 10579
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "basarat - typescript-collections",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-12T08:48:56Z",
-            "owner": "basarat",
-            "repo": "typescript-collections",
-            "stars": 1206
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "samchon - tstl",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-22T03:05:00Z",
-            "owner": "samchon",
-            "repo": "tstl",
-            "stars": 631
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "smoren - itertools-ts",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T11:30:36Z",
-            "owner": "Smoren",
-            "repo": "itertools-ts",
-            "stars": 91
-          }
-        }
-      ],
-      "title": "Data Structure"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Typeorm - typeorm",
-          "description": null,
           "children": [
             {
-              "node_type": "item",
-              "title": "samchon - safe-typeorm",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TypeStrong - ts-loader",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29561893,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-05T09:30:25Z",
+                    "owner": "TypeStrong",
+                    "repo": "ts-loader",
+                    "stars": 3479
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "s-panferov - awesome-typescript-loader",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 31077672,
+                    "language": "TypeScript",
+                    "last_commit": "2019-10-31T17:37:45Z",
+                    "owner": "s-panferov",
+                    "repo": "awesome-typescript-loader",
+                    "stars": 2338
+                  }
+                }
+              ],
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "TypeScript",
-                "last_commit": "2024-05-18T15:32:15Z",
-                "owner": "samchon",
-                "repo": "safe-typeorm",
-                "stars": 227
-              }
+              "node_type": "group",
+              "title": "webpack"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AssemblyScript - assemblyscript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 105138356,
+                    "language": "WebAssembly",
+                    "last_commit": "2026-07-22T02:56:30Z",
+                    "owner": "AssemblyScript",
+                    "repo": "assemblyscript",
+                    "stars": 17990
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TypeStrong - ts-node",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 39111193,
+                    "language": "TypeScript",
+                    "last_commit": "2024-07-18T18:14:16Z",
+                    "owner": "TypeStrong",
+                    "repo": "ts-node",
+                    "stars": 13127
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "bcherny - json-schema-to-typescript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54443780,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-13T06:50:39Z",
+                    "owner": "bcherny",
+                    "repo": "json-schema-to-typescript",
+                    "stars": 3336
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "YousefED - typescript-json-schema",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43307254,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-14T15:28:20Z",
+                    "owner": "YousefED",
+                    "repo": "typescript-json-schema",
+                    "stars": 3267
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "compiler"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "palantir - tslint",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 11672345,
+                    "language": "TypeScript",
+                    "last_commit": "2021-03-25T15:41:38Z",
+                    "owner": "palantir",
+                    "repo": "tslint",
+                    "stars": 5903
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Open Code Review",
+                  "description": "AI code quality gate detecting hallucinated packages, phantom dependencies, stale APIs, and AI-specific code defects. MCP Server + CLI + CI/CD.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1172164248,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-16T06:01:23Z",
+                    "owner": "raye-deng",
+                    "repo": "open-code-review",
+                    "stars": 33
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "linter"
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T06:47:32Z",
-            "owner": "typeorm",
-            "repo": "typeorm",
-            "stars": 36631
-          }
+          "description": null,
+          "node_type": "group",
+          "title": "Build"
         },
         {
-          "node_type": "item",
-          "title": "MikroORM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:49:16Z",
-            "owner": "mikro-orm",
-            "repo": "mikro-orm",
-            "stars": 9174
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RobinBuschmann - sequelize-typescript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-04-20T03:54:41Z",
-            "owner": "sequelize",
-            "repo": "sequelize-typescript",
-            "stars": 2838
-          }
-        }
-      ],
-      "title": "Database"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "kamilmysliwiec - nest",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "samchon - nestia",
+              "title": "Inversify - InversifyJS",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 33568214,
                 "language": "TypeScript",
-                "last_commit": "2026-08-12T13:44:33Z",
-                "owner": "samchon",
-                "repo": "nestia",
-                "stars": 2171
+                "last_commit": "2025-11-19T13:18:33Z",
+                "owner": "inversify",
+                "repo": "InversifyJS",
+                "stars": 12074
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Inversify - inversify-express-example",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 61708806,
+                "language": "TypeScript",
+                "last_commit": "2024-03-26T10:26:30Z",
+                "owner": "inversify",
+                "repo": "inversify-express-example",
+                "stars": 269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InferDI",
+              "description": "Type-safe, decorator-free dependency injection container for modern TypeScript with framework adapters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1227400980,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T14:19:48Z",
+                "owner": "inferdi",
+                "repo": "inferdi",
+                "stars": 71
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T18:33:39Z",
-            "owner": "nestjs",
-            "repo": "nest",
-            "stars": 76394
-          }
+          "description": null,
+          "node_type": "group",
+          "title": "Ioc"
         },
         {
-          "node_type": "item",
-          "title": "welefen - thinkjs",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dcodeIO - protobuf.js",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8507859,
+                "language": "JavaScript",
+                "last_commit": "2026-08-16T16:58:45Z",
+                "owner": "protobufjs",
+                "repo": "protobuf.js",
+                "stars": 10581
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "basarat - typescript-collections",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9958747,
+                "language": "TypeScript",
+                "last_commit": "2023-01-12T08:48:56Z",
+                "owner": "basarat",
+                "repo": "typescript-collections",
+                "stars": 1206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "samchon - tstl",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50482588,
+                "language": "TypeScript",
+                "last_commit": "2026-05-22T03:05:00Z",
+                "owner": "samchon",
+                "repo": "tstl",
+                "stars": 631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "smoren - itertools-ts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608571209,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T11:30:36Z",
+                "owner": "Smoren",
+                "repo": "itertools-ts",
+                "stars": 91
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-07T09:12:05Z",
-            "owner": "thinkjs",
-            "repo": "thinkjs",
-            "stars": 5269
-          }
+          "node_type": "group",
+          "title": "Data Structure"
         },
         {
-          "node_type": "item",
-          "title": "samchon - tgrid",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Typeorm - typeorm",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "samchon - safe-typeorm",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 329561824,
+                    "language": "TypeScript",
+                    "last_commit": "2024-05-18T15:32:15Z",
+                    "owner": "samchon",
+                    "repo": "safe-typeorm",
+                    "stars": 227
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 52773157,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T06:47:32Z",
+                "owner": "typeorm",
+                "repo": "typeorm",
+                "stars": 36633
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MikroORM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125342064,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T06:03:59Z",
+                "owner": "mikro-orm",
+                "repo": "mikro-orm",
+                "stars": 9176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RobinBuschmann - sequelize-typescript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50502690,
+                "language": "TypeScript",
+                "last_commit": "2024-04-20T03:54:41Z",
+                "owner": "sequelize",
+                "repo": "sequelize-typescript",
+                "stars": 2838
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-18T14:10:25Z",
-            "owner": "samchon",
-            "repo": "tgrid",
-            "stars": 167
-          }
+          "node_type": "group",
+          "title": "Database"
         },
         {
-          "node_type": "item",
-          "title": "samchon - mutex-server",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kamilmysliwiec - nest",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "samchon - nestia",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 331251676,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-12T13:44:33Z",
+                    "owner": "samchon",
+                    "repo": "nestia",
+                    "stars": 2171
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 80945428,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T08:49:08Z",
+                "owner": "nestjs",
+                "repo": "nest",
+                "stars": 76403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "welefen - thinkjs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13152531,
+                "language": "JavaScript",
+                "last_commit": "2026-08-07T09:12:05Z",
+                "owner": "thinkjs",
+                "repo": "thinkjs",
+                "stars": 5268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "samchon - tgrid",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152748886,
+                "language": "TypeScript",
+                "last_commit": "2025-12-18T14:10:25Z",
+                "owner": "samchon",
+                "repo": "tgrid",
+                "stars": 167
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "samchon - mutex-server",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266930692,
+                "language": "TypeScript",
+                "last_commit": "2024-06-25T11:36:20Z",
+                "owner": "samchon",
+                "repo": "mutex",
+                "stars": 32
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-25T11:36:20Z",
-            "owner": "samchon",
-            "repo": "mutex",
-            "stars": 32
-          }
+          "node_type": "group",
+          "title": "Server"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Markstream",
+              "description": "Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 packages plus Mermaid, KaTeX, syntax highlighting, safe HTML, and SSR support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988222683,
+                "language": "Vue",
+                "last_commit": "2026-08-19T09:07:45Z",
+                "owner": "Simon-He95",
+                "repo": "markstream-vue",
+                "stars": 2899
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "csv-pipe",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 713070234,
+                "language": "TypeScript",
+                "last_commit": "2026-07-31T18:56:13Z",
+                "owner": "martsinlabs",
+                "repo": "csv-pipe",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PigmentTS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 854544882,
+                "language": "TypeScript",
+                "last_commit": "2025-02-04T06:08:00Z",
+                "owner": "Jay-Karia",
+                "repo": "pigment-ts",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utility"
         }
       ],
-      "title": "Server"
+      "title": "TypeScript Tools/Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Markstream",
-          "description": "Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 packages plus Mermaid, KaTeX, syntax highlighting, safe HTML, and SSR support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-08-18T07:48:33Z",
-            "owner": "Simon-He95",
-            "repo": "markstream-vue",
-            "stars": 2898
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "csv-pipe",
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TypeScript Syntax for VIM",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 6044030,
+                    "language": "Vim Script",
+                    "last_commit": "2025-01-15T22:48:32Z",
+                    "owner": "leafgarland",
+                    "repo": "typescript-vim",
+                    "stars": 1897
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TypeScript Sublime Plugin",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28059353,
+                    "language": "JavaScript",
+                    "last_commit": "2023-03-13T22:59:41Z",
+                    "owner": "microsoft",
+                    "repo": "TypeScript-Sublime-Plugin",
+                    "stars": 1702
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TypeScript Interactive Development Environment for Emacs",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35371728,
+                    "language": "Emacs Lisp",
+                    "last_commit": "2026-02-19T03:37:34Z",
+                    "owner": "ananthakumaran",
+                    "repo": "tide",
+                    "stars": 1476
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Atom TypeScript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21060126,
+                    "language": "TypeScript",
+                    "last_commit": "2023-01-01T23:13:22Z",
+                    "owner": "TypeStrong",
+                    "repo": "atom-typescript",
+                    "stars": 1125
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "IDE/Plugins"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-31T18:56:13Z",
-            "owner": "martsinlabs",
-            "repo": "csv-pipe",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PigmentTS",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-02-04T06:08:00Z",
-            "owner": "Jay-Karia",
-            "repo": "pigment-ts",
-            "stars": 4
-          }
+          "node_type": "group",
+          "title": "Offline"
         }
       ],
-      "title": "Utility"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "TypeScript IDE"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Offline"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TypeScript Syntax for VIM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2025-01-15T22:48:32Z",
-            "owner": "leafgarland",
-            "repo": "typescript-vim",
-            "stars": 1897
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript Sublime Plugin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-13T22:59:41Z",
-            "owner": "microsoft",
-            "repo": "TypeScript-Sublime-Plugin",
-            "stars": 1702
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TypeScript Interactive Development Environment for Emacs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Emacs Lisp",
-            "last_commit": "2026-02-19T03:37:34Z",
-            "owner": "ananthakumaran",
-            "repo": "tide",
-            "stars": 1476
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Atom TypeScript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-01T23:13:22Z",
-            "owner": "TypeStrong",
-            "repo": "atom-typescript",
-            "stars": 1125
-          }
-        }
-      ],
-      "title": "IDE/Plugins"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Online"
-    },
-    {
-      "description": "We welcome your contributions 🌺",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:19:51.316Z",
+    "last_updated": "2026-08-19T12:57:59.940Z",
     "original_repository": "semlinker/awesome-typescript",
+    "original_repository_id": 148978247,
     "original_repository_sha": "fa1ca825aa926b4bc981eaf7095fefa16c2188fa",
     "enhanced_repository": "enhansome/enhansome-typescript",
     "enhanced_repository_description": null,
