@@ -67,7 +67,7 @@
 
 ### Features
 
-* [Microsoft - TypeScript 2.4 新特性一览](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript) ⭐ 110,204 | 🐛 5,054 | 🌐 TypeScript | 📅 2026-08-14
+* [Microsoft - TypeScript 2.4 新特性一览](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript) ⭐ 110,210 | 🐛 5,051 | 🌐 TypeScript | 📅 2026-08-14
 * [Neal1991 - 采用 Flow 以及 TypeScript](https://github.com/neal1991/articles-translator/blob/master/%E9%87%87%E7%94%A8Flow%E4%BB%A5%E5%8F%8ATypeScript.md) ⭐ 621 | 🐛 0 | 📅 2026-04-06
 * [蚂蚁金服数据体验技术团队 - TypeScript 体系调研报告](https://juejin.im/post/59c46bc86fb9a00a4636f939)
 * [Vilicvane - TypeScript 2.0 新特性一览](https://zhuanlan.zhihu.com/p/21629069)
@@ -235,11 +235,11 @@
 #### Awesome
 
 * [dzharii - awesome-typescript](https://github.com/dzharii/awesome-typescript) ⚠️ Archived
-* [brookshi - awesome-typescript-projects](https://github.com/brookshi/awesome-typescript-projects) ⭐ 894 | 🐛 9 | 🌐 TypeScript | 📅 2023-06-13
+* [brookshi - awesome-typescript-projects](https://github.com/brookshi/awesome-typescript-projects) ⭐ 894 | 🐛 10 | 🌐 TypeScript | 📅 2023-06-13
 
 ## TypeScript Starters/Boilerplates
 
-* [Kriasoft - React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,668 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-16
+* [Kriasoft - React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,667 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-16
 * [Microsoft - TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) ⚠️ Archived
 * [Microsoft - TypeScript-Vue-Starter](https://github.com/Microsoft/TypeScript-Vue-Starter) ⚠️ Archived
 * [wmonk - create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) ⚠️ Archived
@@ -249,7 +249,7 @@
 * [Microsoft - TypeScript-Babel-Starter](https://github.com/Microsoft/TypeScript-Babel-Starter) ⚠️ Archived
 * [Microsoft - TypeScript-React-Native-Starter](https://github.com/Microsoft/TypeScript-React-Native-Starter) ⚠️ Archived
 * [rokoroku - react-redux-typescript-boilerplate](https://github.com/rokoroku/react-redux-typescript-boilerplate) ⭐ 1,190 | 🐛 39 | 🌐 TypeScript | 📅 2023-05-28
-* [Marve10s - better-fullstack](https://github.com/Marve10s/Better-Fullstack) ⭐ 715 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-19 - End-to-end fullstack scaffolding across TypeScript, Rust, Python & Go — code ready for you or your AI agent.
+* [Marve10s - better-fullstack](https://github.com/Marve10s/Better-Fullstack) ⭐ 715 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-19 - End-to-end fullstack scaffolding across TypeScript, Rust, Python & Go — code ready for you or your AI agent.
 * [Microsoft - TypeScript-WeChat-Starter](https://github.com/Microsoft/TypeScript-WeChat-Starter) ⚠️ Archived
 * [blove - typescript-express-starter](https://github.com/blove/typescript-express-starter) ⭐ 276 | 🐛 1 | 🌐 TypeScript | 📅 2018-05-28
 * [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter) ⭐ 105 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-01
@@ -369,7 +369,7 @@
 
 ### Ioc
 
-* [Inversify - InversifyJS](https://github.com/inversify/InversifyJS) ⭐ 12,074 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-19
+* [Inversify - InversifyJS](https://github.com/inversify/InversifyJS) ⭐ 12,073 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-19
 * [Inversify - inversify-express-example](https://github.com/inversify/inversify-express-example) ⚠️ Archived
 * [InferDI](https://github.com/inferdi/inferdi) ⭐ 71 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-18 - Type-safe, decorator-free dependency injection container for modern TypeScript with framework adapters.
 * [Injex Framework](https://www.injex.dev)
@@ -388,15 +388,15 @@
 
 ### Database
 
-* [Typeorm - typeorm](https://github.com/typeorm/typeorm) ⭐ 36,633 | 🐛 620 | 🌐 TypeScript | 📅 2026-08-13
+* [Typeorm - typeorm](https://github.com/typeorm/typeorm) ⭐ 36,629 | 🐛 621 | 🌐 TypeScript | 📅 2026-08-13
   * [samchon - safe-typeorm](https://github.com/samchon/safe-typeorm) ⚠️ Archived
 * [MikroORM](https://github.com/mikro-orm/mikro-orm) ⭐ 9,176 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-19
-* [RobinBuschmann - sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript) ⭐ 2,838 | 🐛 264 | 🌐 TypeScript | 📅 2024-04-20
+* [RobinBuschmann - sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript) ⭐ 2,839 | 🐛 264 | 🌐 TypeScript | 📅 2024-04-20
 
 ### Server
 
 * [kamilmysliwiec - nest](https://github.com/nestjs/nest) ⭐ 76,403 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-19
-  * [samchon - nestia](https://github.com/samchon/nestia) ⭐ 2,171 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-12
+  * [samchon - nestia](https://github.com/samchon/nestia) ⭐ 2,171 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-19
 * [welefen - thinkjs](https://github.com/thinkjs/thinkjs) ⭐ 5,268 | 🐛 145 | 🌐 JavaScript | 📅 2026-08-07
 * [samchon - tgrid](https://github.com/samchon/tgrid) ⭐ 167 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-18
 * [samchon - mutex-server](https://github.com/samchon/mutex-server) ⭐ 32 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-25
@@ -404,13 +404,13 @@
 
 ### Utility
 
-* [Markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 2,899 | 🐛 0 | 🌐 Vue | 📅 2026-08-19 - Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 packages plus Mermaid, KaTeX, syntax highlighting, safe HTML, and SSR support.
+* [Markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 2,902 | 🐛 0 | 🌐 Vue | 📅 2026-08-19 - Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 packages plus Mermaid, KaTeX, syntax highlighting, safe HTML, and SSR support.
 * [csv-pipe](https://github.com/martsinlabs/csv-pipe) ⭐ 13 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-31
 * [PigmentTS](https://github.com/Jay-Karia/pigment-ts) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2025-02-04
 
 ### CLI
 
-* [capcut-cli](https://github.com/renezander030/capcut-cli) ⭐ 367 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-17
+* [capcut-cli](https://github.com/renezander030/capcut-cli) ⭐ 369 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-17
 
 - [reflow](https://github.com/valtors/reflow) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-30 - SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, and user preference hooks. Works across React, Vue, Svelte, Solid, Qwik, Preact, Angular, and Lit.
 
