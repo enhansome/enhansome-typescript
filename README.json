@@ -13,11 +13,11 @@
               "repo_info": {
                 "archived": false,
                 "id": 20929025,
-                "language": "TypeScript",
-                "last_commit": "2026-08-14T19:07:48Z",
+                "language": "Go",
+                "last_commit": "2026-08-20T18:18:03Z",
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110210
+                "stars": 110288
               }
             },
             {
@@ -205,7 +205,7 @@
                     "last_commit": "2026-05-29T19:52:44Z",
                     "owner": "typescript-cheatsheets",
                     "repo": "react",
-                    "stars": 47100
+                    "stars": 47098
                   }
                 },
                 {
@@ -220,7 +220,7 @@
                     "last_commit": "2026-05-09T10:54:40Z",
                     "owner": "piotrwitek",
                     "repo": "react-redux-typescript-guide",
-                    "stars": 13272
+                    "stars": 13270
                   }
                 }
               ],
@@ -242,7 +242,7 @@
                     "last_commit": "2026-02-11T04:21:43Z",
                     "owner": "dzharii",
                     "repo": "awesome-typescript",
-                    "stars": 5117
+                    "stars": 5118
                   }
                 },
                 {
@@ -363,7 +363,7 @@
             "last_commit": "2023-05-07T10:26:52Z",
             "owner": "w3tecch",
             "repo": "express-typescript-boilerplate",
-            "stars": 3415
+            "stars": 3416
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-06-30T11:11:08Z",
             "owner": "jsynowiec",
             "repo": "node-typescript-boilerplate",
-            "stars": 2953
+            "stars": 2954
           }
         },
         {
@@ -435,7 +435,7 @@
             "archived": false,
             "id": 1134202023,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T15:34:36Z",
+            "last_commit": "2026-08-19T22:28:35Z",
             "owner": "Marve10s",
             "repo": "Better-Fullstack",
             "stars": 715
@@ -520,7 +520,7 @@
                     "archived": false,
                     "id": 29561893,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-05T09:30:25Z",
+                    "last_commit": "2026-08-20T16:33:30Z",
                     "owner": "TypeStrong",
                     "repo": "ts-loader",
                     "stars": 3479
@@ -642,7 +642,7 @@
                     "last_commit": "2026-04-16T06:01:23Z",
                     "owner": "raye-deng",
                     "repo": "open-code-review",
-                    "stars": 33
+                    "stars": 34
                   }
                 }
               ],
@@ -804,7 +804,7 @@
                 "last_commit": "2026-08-13T06:47:32Z",
                 "owner": "typeorm",
                 "repo": "typeorm",
-                "stars": 36629
+                "stars": 36631
               }
             },
             {
@@ -816,10 +816,10 @@
                 "archived": false,
                 "id": 125342064,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T17:58:40Z",
+                "last_commit": "2026-08-20T13:24:03Z",
                 "owner": "mikro-orm",
                 "repo": "mikro-orm",
-                "stars": 9176
+                "stars": 9177
               }
             },
             {
@@ -858,7 +858,7 @@
                     "archived": false,
                     "id": 331251676,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T17:15:53Z",
+                    "last_commit": "2026-08-20T11:10:24Z",
                     "owner": "samchon",
                     "repo": "nestia",
                     "stars": 2171
@@ -869,10 +869,10 @@
                 "archived": false,
                 "id": 80945428,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T08:49:08Z",
+                "last_commit": "2026-08-20T02:08:53Z",
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76403
+                "stars": 76410
               }
             },
             {
@@ -936,10 +936,10 @@
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-19T15:05:58Z",
+                "last_commit": "2026-08-20T05:07:18Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 2902
+                "stars": 2905
               }
             },
             {
@@ -1062,7 +1062,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T18:16:46.145Z",
+    "last_updated": "2026-08-20T18:21:13.982Z",
     "original_repository": "semlinker/awesome-typescript",
     "original_repository_id": 148978247,
     "original_repository_sha": "fa1ca825aa926b4bc981eaf7095fefa16c2188fa",
