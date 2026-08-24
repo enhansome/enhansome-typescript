@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 20929025,
                 "language": "Go",
-                "last_commit": "2026-08-24T01:47:42Z",
+                "last_commit": "2026-08-24T18:17:31Z",
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110650
+                "stars": 110657
               }
             },
             {
@@ -205,7 +205,7 @@
                     "last_commit": "2026-05-29T19:52:44Z",
                     "owner": "typescript-cheatsheets",
                     "repo": "react",
-                    "stars": 47100
+                    "stars": 47101
                   }
                 },
                 {
@@ -435,7 +435,7 @@
             "archived": false,
             "id": 1134202023,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:44:44Z",
+            "last_commit": "2026-08-24T18:14:05Z",
             "owner": "Marve10s",
             "repo": "Better-Fullstack",
             "stars": 719
@@ -806,7 +806,7 @@
                 "archived": false,
                 "id": 8507859,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T23:51:24Z",
+                "last_commit": "2026-08-24T17:22:11Z",
                 "owner": "protobufjs",
                 "repo": "protobuf.js",
                 "stars": 10583
@@ -892,7 +892,7 @@
                 "last_commit": "2026-08-13T06:47:32Z",
                 "owner": "typeorm",
                 "repo": "typeorm",
-                "stars": 36632
+                "stars": 36634
               }
             },
             {
@@ -957,10 +957,10 @@
                 "archived": false,
                 "id": 80945428,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T13:52:44Z",
+                "last_commit": "2026-08-24T17:40:17Z",
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76447
+                "stars": 76448
               }
             },
             {
@@ -1027,7 +1027,7 @@
                 "last_commit": "2026-08-24T10:58:38Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 2957
+                "stars": 2958
               }
             },
             {
@@ -1079,7 +1079,7 @@
                 "last_commit": "2026-08-23T16:46:25Z",
                 "owner": "renezander030",
                 "repo": "capcut-cli",
-                "stars": 381
+                "stars": 382
               }
             },
             {
@@ -1231,7 +1231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:58:14.791Z",
+    "last_updated": "2026-08-24T18:22:20.900Z",
     "original_repository": "semlinker/awesome-typescript",
     "original_repository_id": 148978247,
     "original_repository_sha": "2b9095567b4c613a993e9afadb12e80e872694c8",
