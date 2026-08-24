@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 20929025,
                 "language": "Go",
-                "last_commit": "2026-08-21T21:39:39Z",
+                "last_commit": "2026-08-24T01:47:42Z",
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110617
+                "stars": 110650
               }
             },
             {
@@ -71,7 +71,7 @@
                     "last_commit": "2022-02-06T21:28:31Z",
                     "owner": "TypeStrong",
                     "repo": "learn-typescript",
-                    "stars": 707
+                    "stars": 708
                   }
                 }
               ],
@@ -108,7 +108,7 @@
                     "last_commit": "2023-04-02T23:03:07Z",
                     "owner": "Lemoncode",
                     "repo": "react-typescript-samples",
-                    "stars": 1854
+                    "stars": 1853
                   }
                 },
                 {
@@ -205,7 +205,7 @@
                     "last_commit": "2026-05-29T19:52:44Z",
                     "owner": "typescript-cheatsheets",
                     "repo": "react",
-                    "stars": 47098
+                    "stars": 47100
                   }
                 },
                 {
@@ -257,7 +257,7 @@
                     "last_commit": "2023-06-13T19:31:34Z",
                     "owner": "brookshi",
                     "repo": "awesome-typescript-projects",
-                    "stars": 894
+                    "stars": 895
                   }
                 }
               ],
@@ -285,10 +285,10 @@
             "archived": false,
             "id": 18840003,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T20:59:22Z",
+            "last_commit": "2026-08-23T20:58:14Z",
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23668
+            "stars": 23669
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2019-10-09T00:06:11Z",
             "owner": "microsoft",
             "repo": "TypeScript-Vue-Starter",
-            "stars": 4419
+            "stars": 4418
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2023-05-07T10:26:52Z",
             "owner": "w3tecch",
             "repo": "express-typescript-boilerplate",
-            "stars": 3417
+            "stars": 3416
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2023-05-28T10:23:27Z",
             "owner": "rokoroku",
             "repo": "react-redux-typescript-boilerplate",
-            "stars": 1190
+            "stars": 1189
           }
         },
         {
@@ -435,10 +435,10 @@
             "archived": false,
             "id": 1134202023,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T18:08:14Z",
+            "last_commit": "2026-08-24T12:44:44Z",
             "owner": "Marve10s",
             "repo": "Better-Fullstack",
-            "stars": 718
+            "stars": 719
           }
         },
         {
@@ -513,6 +513,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "ts-audio",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12353347,
+                    "language": "TypeScript",
+                    "last_commit": "2026-01-18T17:38:27Z",
+                    "owner": "EvandroLG",
+                    "repo": "ts-audio",
+                    "stars": 339
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Web API"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "TypeStrong - ts-loader",
                   "description": null,
                   "children": [],
@@ -550,6 +572,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "ivogabe - gulp-typescript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19606628,
+                    "language": "JavaScript",
+                    "last_commit": "2023-02-02T19:34:24Z",
+                    "owner": "ivogabe",
+                    "repo": "gulp-typescript",
+                    "stars": 852
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "gulp"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "TypeStrong - grunt-ts",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10748878,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-07T17:51:37Z",
+                    "owner": "TypeStrong",
+                    "repo": "grunt-ts",
+                    "stars": 327
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "grunt"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "AssemblyScript - assemblyscript",
                   "description": null,
                   "children": [],
@@ -560,7 +626,7 @@
                     "last_commit": "2026-07-22T02:56:30Z",
                     "owner": "AssemblyScript",
                     "repo": "assemblyscript",
-                    "stars": 17990
+                    "stars": 17993
                   }
                 },
                 {
@@ -669,7 +735,7 @@
                 "last_commit": "2025-11-19T13:18:33Z",
                 "owner": "inversify",
                 "repo": "InversifyJS",
-                "stars": 12075
+                "stars": 12076
               }
             },
             {
@@ -706,6 +772,28 @@
           "description": null,
           "node_type": "group",
           "title": "Ioc"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TypeStrong - typedoc",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20131603,
+                "language": "TypeScript",
+                "last_commit": "2026-07-13T01:33:41Z",
+                "owner": "TypeStrong",
+                "repo": "typedoc",
+                "stars": 8447
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Doc"
         },
         {
           "children": [
@@ -816,10 +904,10 @@
                 "archived": false,
                 "id": 125342064,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T08:56:48Z",
+                "last_commit": "2026-08-24T06:43:55Z",
                 "owner": "mikro-orm",
                 "repo": "mikro-orm",
-                "stars": 9180
+                "stars": 9183
               }
             },
             {
@@ -869,10 +957,10 @@
                 "archived": false,
                 "id": 80945428,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T18:21:11Z",
+                "last_commit": "2026-08-24T13:52:44Z",
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76440
+                "stars": 76447
               }
             },
             {
@@ -936,10 +1024,10 @@
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-23T07:30:18Z",
+                "last_commit": "2026-08-24T10:58:38Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 2954
+                "stars": 2957
               }
             },
             {
@@ -976,6 +1064,58 @@
           "description": null,
           "node_type": "group",
           "title": "Utility"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "capcut-cli",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1209237271,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T16:46:25Z",
+                "owner": "renezander030",
+                "repo": "capcut-cli",
+                "stars": 381
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reflow",
+              "description": "SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, and user preference hooks. Works across React, Vue, Svelte, Solid, Qwik, Preact, Angular, and Lit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1289803596,
+                "language": "TypeScript",
+                "last_commit": "2026-07-30T08:21:50Z",
+                "owner": "valtors",
+                "repo": "reflow",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tura",
+              "description": "Build agent that uses 80% less token and delivers better results.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1291098094,
+                "language": "Rust",
+                "last_commit": "2026-08-20T09:52:51Z",
+                "owner": "Tura-AI",
+                "repo": "tura",
+                "stars": 600
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CLI"
         }
       ],
       "title": "TypeScript Tools/Libraries"
@@ -1056,13 +1196,42 @@
           "description": null,
           "node_type": "group",
           "title": "Offline"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OctoLinker",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15479087,
+                    "language": "HTML",
+                    "last_commit": "2023-10-02T12:33:45Z",
+                    "owner": "OctoLinker",
+                    "repo": "OctoLinker",
+                    "stars": 5385
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Chrome Extension"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Online"
         }
       ],
       "title": "TypeScript IDE"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:13:03.342Z",
+    "last_updated": "2026-08-24T13:58:14.791Z",
     "original_repository": "semlinker/awesome-typescript",
     "original_repository_id": 148978247,
     "original_repository_sha": "2b9095567b4c613a993e9afadb12e80e872694c8",
