@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 20929025,
                 "language": "Go",
-                "last_commit": "2026-08-24T22:58:23Z",
+                "last_commit": "2026-08-25T17:49:11Z",
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110665
+                "stars": 110677
               }
             },
             {
@@ -205,7 +205,7 @@
                     "last_commit": "2026-05-29T19:52:44Z",
                     "owner": "typescript-cheatsheets",
                     "repo": "react",
-                    "stars": 47101
+                    "stars": 47099
                   }
                 },
                 {
@@ -220,7 +220,7 @@
                     "last_commit": "2026-05-09T10:54:40Z",
                     "owner": "piotrwitek",
                     "repo": "react-redux-typescript-guide",
-                    "stars": 13267
+                    "stars": 13266
                   }
                 }
               ],
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-23T20:58:14Z",
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23669
+            "stars": 23668
           }
         },
         {
@@ -435,10 +435,10 @@
             "archived": false,
             "id": 1134202023,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T18:50:07Z",
+            "last_commit": "2026-08-25T16:46:50Z",
             "owner": "Marve10s",
             "repo": "Better-Fullstack",
-            "stars": 720
+            "stars": 721
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-03-01T02:05:41Z",
             "owner": "Kamahl19",
             "repo": "react-starter",
-            "stars": 105
+            "stars": 104
           }
         },
         {
@@ -762,7 +762,7 @@
                 "archived": false,
                 "id": 1227400980,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T14:19:48Z",
+                "last_commit": "2026-08-25T17:05:15Z",
                 "owner": "inferdi",
                 "repo": "inferdi",
                 "stars": 71
@@ -806,7 +806,7 @@
                 "archived": false,
                 "id": 8507859,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T23:42:07Z",
+                "last_commit": "2026-08-25T18:18:17Z",
                 "owner": "protobufjs",
                 "repo": "protobuf.js",
                 "stars": 10583
@@ -907,7 +907,7 @@
                 "last_commit": "2026-08-24T19:57:10Z",
                 "owner": "mikro-orm",
                 "repo": "mikro-orm",
-                "stars": 9183
+                "stars": 9185
               }
             },
             {
@@ -946,7 +946,7 @@
                     "archived": false,
                     "id": 331251676,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-22T17:13:06Z",
+                    "last_commit": "2026-08-25T11:38:29Z",
                     "owner": "samchon",
                     "repo": "nestia",
                     "stars": 2172
@@ -957,10 +957,10 @@
                 "archived": false,
                 "id": 80945428,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T17:40:17Z",
+                "last_commit": "2026-08-25T12:30:19Z",
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76450
+                "stars": 76456
               }
             },
             {
@@ -1024,10 +1024,10 @@
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-25T03:12:49Z",
+                "last_commit": "2026-08-25T16:49:53Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 2959
+                "stars": 2965
               }
             },
             {
@@ -1109,7 +1109,7 @@
                 "last_commit": "2026-08-20T09:52:51Z",
                 "owner": "Tura-AI",
                 "repo": "tura",
-                "stars": 601
+                "stars": 602
               }
             }
           ],
@@ -1231,7 +1231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:54:45.462Z",
+    "last_updated": "2026-08-25T18:21:39.918Z",
     "original_repository": "semlinker/awesome-typescript",
     "original_repository_id": 148978247,
     "original_repository_sha": "2b9095567b4c613a993e9afadb12e80e872694c8",
