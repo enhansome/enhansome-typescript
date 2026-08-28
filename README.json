@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 20929025,
                 "language": "Go",
-                "last_commit": "2026-08-26T23:49:27Z",
+                "last_commit": "2026-08-27T23:48:59Z",
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110728
+                "stars": 110737
               }
             },
             {
@@ -205,7 +205,7 @@
                     "last_commit": "2026-05-29T19:52:44Z",
                     "owner": "typescript-cheatsheets",
                     "repo": "react",
-                    "stars": 47099
+                    "stars": 47098
                   }
                 },
                 {
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-23T20:58:14Z",
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23668
+            "stars": 23669
           }
         },
         {
@@ -435,7 +435,7 @@
             "archived": false,
             "id": 1134202023,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:56:47Z",
+            "last_commit": "2026-08-27T18:25:05Z",
             "owner": "Marve10s",
             "repo": "Better-Fullstack",
             "stars": 722
@@ -653,10 +653,10 @@
                     "archived": false,
                     "id": 54443780,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-22T07:46:32Z",
+                    "last_commit": "2026-08-28T01:49:54Z",
                     "owner": "bcherny",
                     "repo": "json-schema-to-typescript",
-                    "stars": 3338
+                    "stars": 3339
                   }
                 },
                 {
@@ -735,7 +735,7 @@
                 "last_commit": "2025-11-19T13:18:33Z",
                 "owner": "inversify",
                 "repo": "InversifyJS",
-                "stars": 12076
+                "stars": 12075
               }
             },
             {
@@ -787,7 +787,7 @@
                 "last_commit": "2026-07-13T01:33:41Z",
                 "owner": "TypeStrong",
                 "repo": "typedoc",
-                "stars": 8445
+                "stars": 8447
               }
             }
           ],
@@ -809,7 +809,7 @@
                 "last_commit": "2026-08-27T10:12:51Z",
                 "owner": "protobufjs",
                 "repo": "protobuf.js",
-                "stars": 10584
+                "stars": 10585
               }
             },
             {
@@ -892,7 +892,7 @@
                 "last_commit": "2026-08-27T10:20:30Z",
                 "owner": "typeorm",
                 "repo": "typeorm",
-                "stars": 36631
+                "stars": 36634
               }
             },
             {
@@ -904,10 +904,10 @@
                 "archived": false,
                 "id": 125342064,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:33:39Z",
+                "last_commit": "2026-08-27T22:36:28Z",
                 "owner": "mikro-orm",
                 "repo": "mikro-orm",
-                "stars": 9186
+                "stars": 9187
               }
             },
             {
@@ -957,10 +957,10 @@
                 "archived": false,
                 "id": 80945428,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:22:43Z",
+                "last_commit": "2026-08-28T00:02:49Z",
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76472
+                "stars": 76476
               }
             },
             {
@@ -1024,7 +1024,7 @@
                 "archived": false,
                 "id": 988222683,
                 "language": "Vue",
-                "last_commit": "2026-08-27T10:16:31Z",
+                "last_commit": "2026-08-27T16:31:03Z",
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
                 "stars": 2968
@@ -1079,7 +1079,7 @@
                 "last_commit": "2026-08-25T05:10:26Z",
                 "owner": "renezander030",
                 "repo": "capcut-cli",
-                "stars": 385
+                "stars": 384
               }
             },
             {
@@ -1231,7 +1231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:08:10.967Z",
+    "last_updated": "2026-08-28T01:51:21.722Z",
     "original_repository_info": {
       "archived": false,
       "id": 148978247,
