@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+                "homepage": "https://www.typescriptlang.org",
                 "id": 20929025,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T00:01:59Z",
+                "open_issues": 5166,
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110753
+                "stars": 110758,
+                "topics": [
+                  "javascript",
+                  "language",
+                  "typechecker",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -28,12 +38,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books:Translate the distinct technical blogs. Please star or watch. Welcome to join me.",
+                "homepage": "https://madneal.github.io/articles-translator/",
                 "id": 64222773,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-06T14:37:19Z",
+                "open_issues": 0,
                 "owner": "madneal",
                 "repo": "articles-translator",
-                "stars": 621
+                "stars": 621,
+                "topics": [
+                  "article",
+                  "codeql",
+                  "css",
+                  "javascript",
+                  "memory-management",
+                  "npm",
+                  "parcel",
+                  "pwa",
+                  "react",
+                  "security",
+                  "security-tools",
+                  "vue",
+                  "web",
+                  "web-security",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             }
@@ -53,12 +84,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Deprecated, please use the TypeScript-Website repo instead",
+                    "homepage": "https://github.com/microsoft/TypeScript-Website",
                     "id": 33742985,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-08-01T19:54:09Z",
+                    "open_issues": 181,
                     "owner": "microsoft",
                     "repo": "TypeScript-Handbook",
-                    "stars": 4851
+                    "stars": 4851,
+                    "topics": [
+                      "documentation",
+                      "learn",
+                      "typescript",
+                      "typescript-handbook"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -69,12 +110,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The complete workshop for picking up TypeScript",
+                    "homepage": null,
                     "id": 47471325,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-02-06T21:28:31Z",
+                    "open_issues": 1,
                     "owner": "TypeStrong",
                     "repo": "learn-typescript",
-                    "stars": 708
+                    "stars": 708,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
@@ -92,12 +138,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Community Driven Samples for TypeScript",
+                    "homepage": null,
                     "id": 21831014,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2020-03-25T02:45:32Z",
+                    "open_issues": 36,
                     "owner": "microsoft",
                     "repo": "TypeScriptSamples",
-                    "stars": 3182
+                    "stars": 3182,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -108,12 +159,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.",
+                    "homepage": null,
                     "id": 52718939,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-02T23:03:07Z",
+                    "open_issues": 5,
                     "owner": "Lemoncode",
                     "repo": "react-typescript-samples",
-                    "stars": 1852
+                    "stars": 1852,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -124,12 +180,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Angular and TypeScript JumpStart example application",
+                    "homepage": null,
                     "id": 44285150,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-14T10:06:32Z",
+                    "open_issues": 10,
                     "owner": "DanWahlin",
                     "repo": "Angular-JumpStart",
-                    "stars": 1590
+                    "stars": 1590,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -140,12 +201,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A chat application implemented using Socket.io, TypeScript, Angular and Angular Material components",
+                    "homepage": "https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1",
                     "id": 73436648,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-22T05:06:57Z",
+                    "open_issues": 43,
                     "owner": "luixaviles",
                     "repo": "socket-io-typescript-chat",
-                    "stars": 825
+                    "stars": 825,
+                    "topics": [
+                      "angular",
+                      "angular-material2",
+                      "chat",
+                      "nodejs",
+                      "socket",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -156,12 +229,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TodoMVC example using Redux, React, and Typescript",
+                    "homepage": null,
                     "id": 43069121,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2019-10-31T02:52:50Z",
+                    "open_issues": 5,
                     "owner": "jaysoo",
                     "repo": "todomvc-redux-react-typescript",
-                    "stars": 675
+                    "stars": 675,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -172,12 +250,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":zap: Hapi.Js + Typescript = Awesomeness",
+                    "homepage": null,
                     "id": 50255059,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2019-05-18T19:14:30Z",
+                    "open_issues": 3,
                     "owner": "dwyl",
                     "repo": "hapi-typescript-example",
-                    "stars": 353
+                    "stars": 353,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -188,12 +271,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross-platform Single Page Applications with ASP.NET Core, Angular 4 & TypeScript",
+                    "homepage": "http://wp.me/p3mRWu-11L",
                     "id": 48852087,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2019-03-25T17:22:58Z",
+                    "open_issues": 4,
                     "owner": "chsakell",
                     "repo": "aspnet5-angular2-typescript",
-                    "stars": 345
+                    "stars": 345,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
@@ -211,12 +299,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+                    "homepage": "https://react-typescript-cheatsheet.netlify.app",
                     "id": 135786093,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-29T19:52:44Z",
+                    "open_issues": 0,
                     "owner": "typescript-cheatsheets",
                     "repo": "react",
-                    "stars": 47096
+                    "stars": 47096,
+                    "topics": [
+                      "cheatsheet",
+                      "guide",
+                      "react",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -227,12 +325,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The complete guide to static typing in \"React & Redux\" apps using TypeScript",
+                    "homepage": "https://piotrwitek.github.io/react-redux-typescript-guide/",
                     "id": 76996763,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-05-09T10:54:40Z",
+                    "open_issues": 99,
                     "owner": "piotrwitek",
                     "repo": "react-redux-typescript-guide",
-                    "stars": 13266
+                    "stars": 13266,
+                    "topics": [
+                      "flow",
+                      "guide",
+                      "guidelines",
+                      "patterns",
+                      "react",
+                      "redux",
+                      "static-typing",
+                      "style-guide",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
@@ -250,12 +363,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript",
+                    "homepage": null,
                     "id": 36996520,
                     "language": null,
+                    "license": "Unlicense",
                     "last_commit": "2026-02-11T04:21:43Z",
+                    "open_issues": 3,
                     "owner": "dzharii",
                     "repo": "awesome-typescript",
-                    "stars": 5118
+                    "stars": 5118,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -266,12 +384,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "awesome typescript open source projects, includes IDE, Framework, Library, Tool",
+                    "homepage": null,
                     "id": 82440765,
                     "language": "TypeScript",
+                    "license": "Unlicense",
                     "last_commit": "2023-06-13T19:31:34Z",
+                    "open_issues": 11,
                     "owner": "brookshi",
                     "repo": "awesome-typescript-projects",
-                    "stars": 896
+                    "stars": 896,
+                    "topics": [
+                      "awesome",
+                      "project",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
@@ -298,12 +425,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.",
+            "homepage": "https://reactstarter.com",
             "id": 18840003,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T20:58:14Z",
+            "open_issues": 9,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23671
+            "stars": 23671,
+            "topics": [
+              "better-auth",
+              "boilerplate",
+              "bun",
+              "cloudflare",
+              "cloudflare-workers",
+              "drizzle-orm",
+              "gcp",
+              "hono",
+              "neon",
+              "nodejs",
+              "react",
+              "saas",
+              "shadcn-ui",
+              "starter-kit",
+              "tailwindcss",
+              "tanstack-router",
+              "template",
+              "trpc",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -314,12 +467,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A starter template for TypeScript and React with a detailed README describing how to use the two together.",
+            "homepage": null,
             "id": 90786246,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-08-23T00:06:50Z",
+            "open_issues": 196,
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11030
+            "stars": 11030,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -330,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A starter template for TypeScript and Vue with a detailed README describing how to use the two together.",
+            "homepage": null,
             "id": 90786593,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-10-09T00:06:11Z",
+            "open_issues": 34,
             "owner": "microsoft",
             "repo": "TypeScript-Vue-Starter",
-            "stars": 4418
+            "stars": 4418,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -346,12 +509,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: Create React apps using typescript with no build configuration.",
+            "homepage": null,
             "id": 76130347,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-08-21T21:31:39Z",
+            "open_issues": 119,
             "owner": "wmonk",
             "repo": "create-react-app-typescript",
-            "stars": 3678
+            "stars": 3678,
+            "topics": [
+              "create-react-app",
+              "frontend",
+              "react",
+              "typescript",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -362,12 +536,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly create and configure a new library or Node.js project",
+            "homepage": "https://bitjson.github.io/typescript-starter/",
             "id": 80701067,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-06T20:25:44Z",
+            "open_issues": 34,
             "owner": "bitjson",
             "repo": "typescript-starter",
-            "stars": 3542
+            "stars": 3542,
+            "topics": [
+              "ava",
+              "boilerplate",
+              "circle-ci",
+              "library",
+              "nodejs",
+              "prettier",
+              "standard-version",
+              "starter",
+              "template",
+              "tslint",
+              "typedoc",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -378,12 +570,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch",
+            "homepage": null,
             "id": 89909577,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-07T10:26:52Z",
+            "open_issues": 97,
             "owner": "w3tecch",
             "repo": "express-typescript-boilerplate",
-            "stars": 3416
+            "stars": 3416,
+            "topics": [
+              "annotations",
+              "boilerplate",
+              "database",
+              "documentation",
+              "e2e-tests",
+              "express-typescript-boilerplate",
+              "expressjs",
+              "ioc",
+              "jest",
+              "migrations",
+              "monitoring",
+              "nodejs",
+              "restful-api",
+              "seed",
+              "seeding",
+              "skeleton",
+              "starter-kit",
+              "typescript",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -394,12 +611,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Production-ready Node.js TypeScript boilerplate: ESM, Vitest, ESLint, Prettier, GitHub Actions, Mise, and AGENTS.md included.",
+            "homepage": null,
             "id": 66166156,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-30T11:11:08Z",
+            "open_issues": 0,
             "owner": "jsynowiec",
             "repo": "node-typescript-boilerplate",
-            "stars": 2955
+            "stars": 2955,
+            "topics": [
+              "back-end",
+              "backend",
+              "boilerplate",
+              "es-modules",
+              "eslint",
+              "express",
+              "javascript",
+              "microservices",
+              "node-js",
+              "node-typescript-boilerplate",
+              "nodejs",
+              "nodejs-server",
+              "prettier",
+              "project-template",
+              "serverless",
+              "service",
+              "starter-template",
+              "typescript",
+              "typescript-boilerplate",
+              "vitest"
+            ]
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -410,12 +653,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A sample setup using Babel CLI to build TypeScript code, and using TypeScript for type-checking. ",
+            "homepage": null,
             "id": 118187783,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-08-15T21:15:29Z",
+            "open_issues": 27,
             "owner": "microsoft",
             "repo": "TypeScript-Babel-Starter",
-            "stars": 1978
+            "stars": 1978,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -426,12 +674,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A starter template for TypeScript and React Native with a detailed README describing how to use the two together.",
+            "homepage": null,
             "id": 90786476,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2022-08-31T15:21:41Z",
+            "open_issues": 43,
             "owner": "microsoft",
             "repo": "TypeScript-React-Native-Starter",
-            "stars": 1895
+            "stars": 1895,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -442,12 +695,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bare minimum frontend boilerplate with React 16, Typescript 3 and Webpack 4",
+            "homepage": "https://rokoroku.github.io/react-redux-typescript-boilerplate",
             "id": 77309872,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-05-28T10:23:27Z",
+            "open_issues": 39,
             "owner": "rokoroku",
             "repo": "react-redux-typescript-boilerplate",
-            "stars": 1189
+            "stars": 1189,
+            "topics": [
+              "boilerplate",
+              "postcss",
+              "react",
+              "redux",
+              "todomvc",
+              "treeshaking",
+              "typescript",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -458,12 +725,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations, all wired together.",
+            "homepage": "https://better-fullstack.dev/",
             "id": 1134202023,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:16:51Z",
+            "open_issues": 0,
             "owner": "Marve10s",
             "repo": "Better-Fullstack",
-            "stars": 724
+            "stars": 724,
+            "topics": [
+              "boilerplate",
+              "cli",
+              "dotnet",
+              "drizzle-orm",
+              "elixir",
+              "full-stack",
+              "golang",
+              "java",
+              "mcp",
+              "monorepo",
+              "nextjs",
+              "python",
+              "react",
+              "react-native",
+              "rust",
+              "scaffolding",
+              "shadcn-ui",
+              "starter",
+              "tanstack",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -474,12 +767,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A starter template for TypeScript and WeChat with a detailed README describing how to use the two together.",
+            "homepage": null,
             "id": 90786663,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-11-28T19:11:54Z",
+            "open_issues": 0,
             "owner": "microsoft",
             "repo": "TypeScript-WeChat-Starter",
-            "stars": 683
+            "stars": 683,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -490,12 +788,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TypeScript 2 + Express + Node.js",
+            "homepage": null,
             "id": 73234533,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2018-05-28T01:16:22Z",
+            "open_issues": 1,
             "owner": "blove",
             "repo": "typescript-express-starter",
-            "stars": 276
+            "stars": 276,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -506,12 +809,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full-featured typescript starter for React application",
+            "homepage": "https://react-starter-kamahl19.vercel.app",
             "id": 68607771,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-01T02:05:41Z",
+            "open_issues": 7,
             "owner": "Kamahl19",
             "repo": "react-starter",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "boilerplate",
+              "radix-ui",
+              "react",
+              "shadcn-ui",
+              "starter-kit",
+              "tailwindcss",
+              "tanstack-query",
+              "typescript",
+              "vite",
+              "vitest",
+              "zod"
+            ]
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         },
@@ -522,12 +842,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A starter template for TypeScript and Knockout.",
+            "homepage": null,
             "id": 90787275,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2017-05-09T20:58:28Z",
+            "open_issues": 1,
             "owner": "microsoft",
             "repo": "TypeScript-Knockout-Starter",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
         }
@@ -548,12 +873,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":musical_score: ts-audio is an agnostic library that makes it easy to work with AudioContext and create audio playlists in the browser",
+                    "homepage": null,
                     "id": 12353347,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-18T17:38:27Z",
+                    "open_issues": 2,
                     "owner": "EvandroLG",
                     "repo": "ts-audio",
-                    "stars": 339
+                    "stars": 339,
+                    "topics": [
+                      "audio",
+                      "audiocontext-api",
+                      "client-side",
+                      "song",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
@@ -571,12 +907,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TypeScript loader for webpack",
+                    "homepage": "https://johnnyreilly.com/migrating-ts-loader-to-typescript-7-1-with-ai",
                     "id": 29561893,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-20T19:11:31Z",
+                    "open_issues": 71,
                     "owner": "TypeStrong",
                     "repo": "ts-loader",
-                    "stars": 3479
+                    "stars": 3479,
+                    "topics": [
+                      "loader",
+                      "typescript",
+                      "webpack",
+                      "webpack-loader"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -587,12 +933,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Awesome TypeScript loader for webpack",
+                    "homepage": null,
                     "id": 31077672,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2019-10-31T17:37:45Z",
+                    "open_issues": 233,
                     "owner": "s-panferov",
                     "repo": "awesome-typescript-loader",
-                    "stars": 2338
+                    "stars": 2338,
+                    "topics": [
+                      "loader",
+                      "typescript",
+                      "webpack"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
@@ -610,12 +965,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A TypeScript compiler for gulp with incremental compilation support.",
+                    "homepage": null,
                     "id": 19606628,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-02-02T19:34:24Z",
+                    "open_issues": 62,
                     "owner": "ivogabe",
                     "repo": "gulp-typescript",
-                    "stars": 852
+                    "stars": 852,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
@@ -633,12 +993,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A grunt task to manage your complete typescript development to production workflow",
+                    "homepage": "https://www.npmjs.com/package/grunt-ts",
                     "id": 10748878,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-12-07T17:51:37Z",
+                    "open_issues": 81,
                     "owner": "TypeStrong",
                     "repo": "grunt-ts",
-                    "stars": 327
+                    "stars": 327,
+                    "topics": [
+                      "grunt",
+                      "grunt-task",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
@@ -656,12 +1025,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A TypeScript-like language for WebAssembly.",
+                    "homepage": "https://www.assemblyscript.org",
                     "id": 105138356,
                     "language": "WebAssembly",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-22T02:56:30Z",
+                    "open_issues": 201,
                     "owner": "AssemblyScript",
                     "repo": "assemblyscript",
-                    "stars": 17993
+                    "stars": 17993,
+                    "topics": [
+                      "assemblyscript",
+                      "compiler",
+                      "typescript",
+                      "wasm",
+                      "webassembly"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -672,12 +1052,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TypeScript execution and REPL for node.js",
+                    "homepage": "https://typestrong.org/ts-node",
                     "id": 39111193,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-07-18T18:14:16Z",
+                    "open_issues": 232,
                     "owner": "TypeStrong",
                     "repo": "ts-node",
-                    "stars": 13127
+                    "stars": 13127,
+                    "topics": [
+                      "hacktoberfest",
+                      "nodejs",
+                      "repl",
+                      "runtime",
+                      "ts",
+                      "ts-node",
+                      "typescript",
+                      "typescript-compiler",
+                      "typescript-node"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -688,12 +1083,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Compile JSON Schema to TypeScript type declarations",
+                    "homepage": "https://bcherny.github.io/json-schema-to-typescript-browser/",
                     "id": 54443780,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-29T00:52:23Z",
+                    "open_issues": 147,
                     "owner": "bcherny",
                     "repo": "json-schema-to-typescript",
-                    "stars": 3339
+                    "stars": 3339,
+                    "topics": [
+                      "json-schema",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -704,12 +1107,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generate json-schema from your Typescript sources",
+                    "homepage": null,
                     "id": 43307254,
                     "language": "TypeScript",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-14T15:28:20Z",
+                    "open_issues": 189,
                     "owner": "YousefED",
                     "repo": "typescript-json-schema",
-                    "stars": 3267
+                    "stars": 3267,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
@@ -727,12 +1135,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": ":vertical_traffic_light: An extensible linter for the TypeScript language",
+                    "homepage": "http://palantir.github.io/tslint/",
                     "id": 11672345,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-03-25T15:41:38Z",
+                    "open_issues": 1,
                     "owner": "palantir",
                     "repo": "tslint",
-                    "stars": 5902
+                    "stars": 5902,
+                    "topics": [
+                      "linter",
+                      "linting-rules",
+                      "octo-correct-managed",
+                      "static-analysis",
+                      "tslint",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -743,12 +1163,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🤖 AI code quality gate for AI-generated code. Detects hallucinated packages, phantom dependencies, stale APIs, and more. MCP Server + CLI + CI/CD Action.",
+                    "homepage": "https://codes.evallab.ai",
                     "id": 1172164248,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-04-16T06:01:23Z",
+                    "open_issues": 2,
                     "owner": "raye-deng",
                     "repo": "open-code-review",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": [
+                      "ai",
+                      "ai-generated-code",
+                      "ci-cd",
+                      "code-quality",
+                      "code-review",
+                      "developer-tools",
+                      "github-actions",
+                      "golang",
+                      "hallucination-detection",
+                      "java",
+                      "mcp",
+                      "mcp-server",
+                      "modelcontextprotocol",
+                      "phantom-packages",
+                      "python",
+                      "quality-gate",
+                      "security",
+                      "static-analysis",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
@@ -771,12 +1216,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful and lightweight inversion of control container. Moved to https://github.com/inversify/monorepo",
+                "homepage": "http://inversify.io/",
                 "id": 33568214,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-11-19T13:18:33Z",
+                "open_issues": 2,
                 "owner": "inversify",
                 "repo": "InversifyJS",
-                "stars": 12076
+                "stars": 12076,
+                "topics": [
+                  "dependency-injection",
+                  "inversifyjs",
+                  "ioc",
+                  "javascript",
+                  "nodejs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -787,12 +1244,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The official express + inversify+ inversify-express-utils examples",
+                "homepage": null,
                 "id": 61708806,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-03-26T10:26:30Z",
+                "open_issues": 6,
                 "owner": "inversify",
                 "repo": "inversify-express-example",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "dependency-injection",
+                  "express",
+                  "inversifyjs",
+                  "inversifyjs-examples",
+                  "inversion-of-control",
+                  "mongodb",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -803,12 +1273,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero-dependency, decorator-free, strictly typed DI container for TypeScript. Features scopes, lazy injection, lifetime guards, and explicit async teardown.",
+                "homepage": "https://inferdi.com",
                 "id": 1227400980,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-25T17:05:15Z",
+                "open_issues": 1,
                 "owner": "inferdi",
                 "repo": "inferdi",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "container",
+                  "dependency-injection",
+                  "di-container",
+                  "disposable",
+                  "inversion-of-control",
+                  "scoped",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             }
@@ -826,12 +1309,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation generator for TypeScript projects.",
+                "homepage": "https://typedoc.org",
                 "id": 20131603,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-13T01:33:41Z",
+                "open_issues": 18,
                 "owner": "TypeStrong",
                 "repo": "typedoc",
-                "stars": 8447
+                "stars": 8447,
+                "topics": [
+                  "documentation",
+                  "generator",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             }
@@ -849,12 +1341,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance Protocol Buffers for JavaScript and TypeScript. Conformant through Edition 2026, and unusually versatile. No protoc required.",
+                "homepage": null,
                 "id": 8507859,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T10:12:51Z",
+                "open_issues": 83,
                 "owner": "protobufjs",
                 "repo": "protobuf.js",
-                "stars": 10585
+                "stars": 10585,
+                "topics": [
+                  "javascript",
+                  "protobuf",
+                  "protocol-buffers",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -865,12 +1367,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A generically typed set of collections for use with TypeScript",
+                "homepage": null,
                 "id": 9958747,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-12T08:48:56Z",
+                "open_issues": 12,
                 "owner": "basarat",
                 "repo": "typescript-collections",
-                "stars": 1206
+                "stars": 1206,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -881,12 +1388,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript-STL (Standard Template Library, migrated from C++)",
+                "homepage": null,
                 "id": 50482588,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-22T03:05:00Z",
+                "open_issues": 3,
                 "owner": "samchon",
                 "repo": "tstl",
-                "stars": 631
+                "stars": 631,
+                "topics": [
+                  "algorithm",
+                  "collection",
+                  "container",
+                  "critical-section",
+                  "hashmap",
+                  "iterator",
+                  "mutex",
+                  "semaphore",
+                  "stl",
+                  "treemap",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -897,12 +1421,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript Iteration Tools Library",
+                "homepage": "https://npmjs.com/package/itertools-ts",
                 "id": 608571209,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-18T11:30:36Z",
+                "open_issues": 14,
                 "owner": "Smoren",
                 "repo": "itertools-ts",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "async-iterable",
+                  "async-iterables",
+                  "async-iteration",
+                  "async-iterator",
+                  "async-iterators",
+                  "fluentinterface",
+                  "generator",
+                  "infinite-iteration",
+                  "iterable",
+                  "iterator",
+                  "itertools",
+                  "itertools-library",
+                  "looping",
+                  "loops",
+                  "pipe",
+                  "pipes",
+                  "random-iteration",
+                  "stream",
+                  "streams",
+                  "zip"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             }
@@ -925,24 +1475,56 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "TypeORM helper library enhancing safety in the compilation level",
+                    "homepage": null,
                     "id": 329561824,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2024-05-18T15:32:15Z",
+                    "open_issues": 3,
                     "owner": "samchon",
                     "repo": "safe-typeorm",
-                    "stars": 227
+                    "stars": 227,
+                    "topics": [
+                      "compilation",
+                      "orm",
+                      "safe",
+                      "sql",
+                      "typeorm",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript & JavaScript ORM for Node.js — supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.",
+                "homepage": "http://typeorm.io",
                 "id": 52773157,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T10:20:30Z",
+                "open_issues": 617,
                 "owner": "typeorm",
                 "repo": "typeorm",
-                "stars": 36634
+                "stars": 36634,
+                "topics": [
+                  "active-record",
+                  "cockroachdb",
+                  "data-mapper",
+                  "database",
+                  "hacktoberfest",
+                  "javascript",
+                  "mariadb",
+                  "mysql",
+                  "orm",
+                  "postgresql",
+                  "sqlite",
+                  "sqlserver",
+                  "typeorm",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -953,12 +1535,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.",
+                "homepage": "https://mikro-orm.io",
                 "id": 125342064,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T22:14:49Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T01:26:30Z",
+                "open_issues": 20,
                 "owner": "mikro-orm",
                 "repo": "mikro-orm",
-                "stars": 9189
+                "stars": 9189,
+                "topics": [
+                  "database",
+                  "datamapper",
+                  "entities",
+                  "entity",
+                  "identity-map",
+                  "javascript",
+                  "libsql",
+                  "mongodb",
+                  "mysql",
+                  "nodejs",
+                  "orm",
+                  "postgre",
+                  "postgresql",
+                  "sql",
+                  "sql-server",
+                  "sqlite",
+                  "sqlite3",
+                  "typescript",
+                  "typescript-orm",
+                  "unit-of-work"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -969,12 +1577,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decorators and some other features for sequelize",
+                "homepage": null,
                 "id": 50502690,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-04-20T03:54:41Z",
+                "open_issues": 264,
                 "owner": "sequelize",
                 "repo": "sequelize-typescript",
-                "stars": 2839
+                "stars": 2839,
+                "topics": [
+                  "annotations",
+                  "decorators",
+                  "orm",
+                  "sequelize",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             }
@@ -997,24 +1616,67 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NestJS Helper + AI Chatbot Development",
+                    "homepage": "https://nestia.io/",
                     "id": 331251676,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T11:38:29Z",
+                    "open_issues": 4,
                     "owner": "samchon",
                     "repo": "nestia",
-                    "stars": 2172
+                    "stars": 2172,
+                    "topics": [
+                      "agent",
+                      "ai",
+                      "api",
+                      "class-validator",
+                      "decorator",
+                      "hacktoberfest",
+                      "large-language-model",
+                      "llm",
+                      "llm-function-calling",
+                      "nestjs",
+                      "rag",
+                      "retrieval-augmented-generation",
+                      "sdk",
+                      "swagger",
+                      "trpc",
+                      "typescript",
+                      "typia",
+                      "validator"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+                "homepage": "https://nestjs.com",
                 "id": 80945428,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:14:20Z",
+                "open_issues": 22,
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76483
+                "stars": 76484,
+                "topics": [
+                  "framework",
+                  "hacktoberfest",
+                  "javascript",
+                  "javascript-framework",
+                  "microservices",
+                  "nest",
+                  "nestjs",
+                  "node",
+                  "nodejs",
+                  "nodejs-framework",
+                  "typescript",
+                  "typescript-framework",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -1025,12 +1687,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use full ES2015+ features to develop Node.js applications, Support TypeScript.",
+                "homepage": "https://thinkjs.org/",
                 "id": 13152531,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T09:12:05Z",
+                "open_issues": 145,
                 "owner": "thinkjs",
                 "repo": "thinkjs",
-                "stars": 5268
+                "stars": 5268,
+                "topics": [
+                  "koa",
+                  "nodejs",
+                  "thinkjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -1041,12 +1713,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript RPC (Remote Procedure Call) for WebSocket and Worker protocols",
+                "homepage": "https://tgrid.com/",
                 "id": 152748886,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-18T14:10:25Z",
+                "open_issues": 4,
                 "owner": "samchon",
                 "repo": "tgrid",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "grid-computing",
+                  "nestia",
+                  "nestjs",
+                  "network",
+                  "process",
+                  "remote-function-call",
+                  "remote-procedure-call",
+                  "rpc",
+                  "thread",
+                  "typescript",
+                  "websocket",
+                  "worker"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -1057,12 +1747,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mutex Server using WebSocket",
+                "homepage": null,
                 "id": 266930692,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-25T11:36:20Z",
+                "open_issues": 3,
                 "owner": "samchon",
                 "repo": "mutex",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "critical-section",
+                  "mutex",
+                  "nodejs",
+                  "server",
+                  "tgrid",
+                  "tstl",
+                  "typescript",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             }
@@ -1080,12 +1784,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, stream-diffs code blocks, safe HTML, and low-jitter updates.",
+                "homepage": "https://markstream.simonhe.me",
                 "id": 988222683,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-08-28T23:24:44Z",
+                "open_issues": 2,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 2969
+                "stars": 2969,
+                "topics": [
+                  "ai",
+                  "ai-chat",
+                  "angular",
+                  "katex",
+                  "llm",
+                  "markdown",
+                  "markdown-renderer",
+                  "markstream",
+                  "mermaid",
+                  "nextjs",
+                  "nuxt",
+                  "octane",
+                  "react",
+                  "safe-html",
+                  "stream-markdown",
+                  "streaming-markdown",
+                  "svelte",
+                  "vitepress",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -1096,12 +1825,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Typed, zero-dependency CSV parser and encoder for TypeScript. Streams with flat memory and runs on Node, browsers, Deno, Bun, and edge.",
+                "homepage": "https://martsinlabs.github.io/csv-pipe/",
                 "id": 713070234,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T18:56:41Z",
+                "open_issues": 4,
                 "owner": "martsinlabs",
                 "repo": "csv-pipe",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "bun",
+                  "csv",
+                  "csv-parse",
+                  "csv-parser",
+                  "csv-stringify",
+                  "deno",
+                  "edge",
+                  "javascript",
+                  "nodejs",
+                  "parser",
+                  "rfc4180",
+                  "streaming",
+                  "stringify",
+                  "typescript",
+                  "zero-dependency"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -1112,12 +1862,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎨 A lightweight utility for color manipulation and conversion.",
+                "homepage": null,
                 "id": 854544882,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-02-04T06:08:00Z",
+                "open_issues": 1,
                 "owner": "Jay-Karia",
                 "repo": "pigment-ts",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "colo-conversion",
+                  "color",
+                  "color-manipulation",
+                  "javascript",
+                  "npm-package",
+                  "typescript",
+                  "utility"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             }
@@ -1135,12 +1898,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Independent, unofficial CLI to edit CapCut and JianYing projects — subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, reads draft_content.json directly. Not affiliated with ByteDance.",
+                "homepage": "https://renezander.com",
                 "id": 1209237271,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:24:03Z",
+                "open_issues": 5,
                 "owner": "renezander030",
                 "repo": "capcut-cli",
-                "stars": 387
+                "stars": 387,
+                "topics": [
+                  "automation",
+                  "capcut",
+                  "capcut-api",
+                  "capcut-automation",
+                  "capcut-editor",
+                  "capcut-subtitles",
+                  "capcut-template",
+                  "claude-code-plugin",
+                  "cli",
+                  "draft-content-json",
+                  "jianying",
+                  "python",
+                  "srt-export",
+                  "subtitle-editor",
+                  "video-to-shorts"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -1151,12 +1935,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, viewport tracking, and user preference hooks. One API across 8 frameworks.",
+                "homepage": "https://valtors.github.io/reflow/",
                 "id": 1289803596,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-30T08:21:50Z",
+                "open_issues": 0,
                 "owner": "valtors",
                 "repo": "reflow",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "breakpoints",
+                  "container-queries",
+                  "dark-mode",
+                  "design-system",
+                  "developer-tools",
+                  "fluid-typography",
+                  "framework-agnostic",
+                  "frontend",
+                  "media-query",
+                  "qwik",
+                  "react",
+                  "react-hooks",
+                  "responsive",
+                  "responsive-design",
+                  "solid",
+                  "ssr",
+                  "ssr-safe",
+                  "svelte",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             },
@@ -1167,12 +1977,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build agent that uses 80% less token and delivers better results.",
+                "homepage": "https://turaai.net/",
                 "id": 1291098094,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-20T09:52:51Z",
+                "open_issues": 3,
                 "owner": "Tura-AI",
                 "repo": "tura",
-                "stars": 603
+                "stars": 604,
+                "topics": [
+                  "agent",
+                  "agentic-ai",
+                  "coding-agent",
+                  "context-engineering",
+                  "developer-tools",
+                  "developer-tools-ai-agent",
+                  "harness-engineering",
+                  "llm",
+                  "mcp",
+                  "terminal-based",
+                  "token-optimization",
+                  "token-usage"
+                ]
               },
               "first_seen": "2026-08-29T01:15:29.800Z"
             }
@@ -1198,12 +2026,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Typescript syntax files for Vim",
+                    "homepage": null,
                     "id": 6044030,
                     "language": "Vim Script",
+                    "license": null,
                     "last_commit": "2025-01-15T22:48:32Z",
+                    "open_issues": 42,
                     "owner": "leafgarland",
                     "repo": "typescript-vim",
-                    "stars": 1896
+                    "stars": 1896,
+                    "topics": [
+                      "typescript",
+                      "typescript-syntax",
+                      "vim"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -1214,12 +2051,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins",
+                    "homepage": null,
                     "id": 28059353,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-03-13T22:59:41Z",
+                    "open_issues": 161,
                     "owner": "microsoft",
                     "repo": "TypeScript-Sublime-Plugin",
-                    "stars": 1702
+                    "stars": 1702,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -1230,12 +2072,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tide - TypeScript Interactive Development Environment for Emacs",
+                    "homepage": null,
                     "id": 35371728,
                     "language": "Emacs Lisp",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-02-19T03:37:34Z",
+                    "open_issues": 39,
                     "owner": "ananthakumaran",
                     "repo": "tide",
-                    "stars": 1476
+                    "stars": 1476,
+                    "topics": [
+                      "emacs",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 },
@@ -1246,12 +2096,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The only TypeScript package you will ever need",
+                    "homepage": "https://atom.io/packages/atom-typescript",
                     "id": 21060126,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-01T23:13:22Z",
+                    "open_issues": 21,
                     "owner": "TypeStrong",
                     "repo": "atom-typescript",
-                    "stars": 1125
+                    "stars": 1125,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
@@ -1276,12 +2131,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OctoLinker — Links together, what belongs together",
+                    "homepage": "https://octolinker.vercel.app",
                     "id": 15479087,
                     "language": "HTML",
+                    "license": "MIT",
                     "last_commit": "2023-10-02T12:33:45Z",
+                    "open_issues": 62,
                     "owner": "OctoLinker",
                     "repo": "OctoLinker",
-                    "stars": 5384
+                    "stars": 5384,
+                    "topics": [
+                      "browser-extension",
+                      "github",
+                      "github-extension",
+                      "octolinker",
+                      "productivity"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
                 }
@@ -1300,15 +2166,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:15:29.800Z",
+    "last_updated": "2026-08-29T04:16:58.385Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome TypeScript resources for client-side and server-side development",
+      "homepage": null,
       "id": 148978247,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-22T02:15:33Z",
+      "open_issues": 107,
       "owner": "semlinker",
       "repo": "awesome-typescript",
-      "stars": 4045
+      "stars": 4045,
+      "topics": [
+        "awesome-list",
+        "react-typescripts",
+        "typescript",
+        "vue-typescript"
+      ]
     },
     "original_repository_sha": "2b9095567b4c613a993e9afadb12e80e872694c8",
     "enhanced_repository": "enhansome/enhansome-typescript",
