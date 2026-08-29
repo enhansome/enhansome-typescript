@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T00:01:59Z",
-                "open_issues": 5166,
+                "open_issues": 5170,
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 110758,
+                "stars": 110778,
                 "topics": [
                   "javascript",
                   "language",
@@ -334,7 +334,7 @@
                     "open_issues": 99,
                     "owner": "piotrwitek",
                     "repo": "react-redux-typescript-guide",
-                    "stars": 13266,
+                    "stars": 13265,
                     "topics": [
                       "flow",
                       "guide",
@@ -434,7 +434,7 @@
             "open_issues": 9,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23671,
+            "stars": 23670,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -476,7 +476,7 @@
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11030,
+            "stars": 11029,
             "topics": []
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
@@ -620,7 +620,7 @@
             "open_issues": 0,
             "owner": "jsynowiec",
             "repo": "node-typescript-boilerplate",
-            "stars": 2955,
+            "stars": 2954,
             "topics": [
               "back-end",
               "backend",
@@ -912,7 +912,7 @@
                     "id": 29561893,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-20T19:11:31Z",
+                    "last_commit": "2026-08-29T18:38:46Z",
                     "open_issues": 71,
                     "owner": "TypeStrong",
                     "repo": "ts-loader",
@@ -1034,7 +1034,7 @@
                     "open_issues": 201,
                     "owner": "AssemblyScript",
                     "repo": "assemblyscript",
-                    "stars": 17993,
+                    "stars": 17994,
                     "topics": [
                       "assemblyscript",
                       "compiler",
@@ -1088,8 +1088,8 @@
                     "id": 54443780,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T00:52:23Z",
-                    "open_issues": 147,
+                    "last_commit": "2026-08-29T19:45:12Z",
+                    "open_issues": 158,
                     "owner": "bcherny",
                     "repo": "json-schema-to-typescript",
                     "stars": 3339,
@@ -1144,7 +1144,7 @@
                     "open_issues": 1,
                     "owner": "palantir",
                     "repo": "tslint",
-                    "stars": 5902,
+                    "stars": 5901,
                     "topics": [
                       "linter",
                       "linting-rules",
@@ -1282,7 +1282,7 @@
                 "open_issues": 1,
                 "owner": "inferdi",
                 "repo": "inferdi",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "container",
                   "dependency-injection",
@@ -1318,7 +1318,7 @@
                 "open_issues": 18,
                 "owner": "TypeStrong",
                 "repo": "typedoc",
-                "stars": 8447,
+                "stars": 8448,
                 "topics": [
                   "documentation",
                   "generator",
@@ -1508,7 +1508,7 @@
                 "open_issues": 617,
                 "owner": "typeorm",
                 "repo": "typeorm",
-                "stars": 36634,
+                "stars": 36638,
                 "topics": [
                   "active-record",
                   "cockroachdb",
@@ -1544,7 +1544,7 @@
                 "open_issues": 20,
                 "owner": "mikro-orm",
                 "repo": "mikro-orm",
-                "stars": 9189,
+                "stars": 9191,
                 "topics": [
                   "database",
                   "datamapper",
@@ -1625,7 +1625,7 @@
                     "open_issues": 4,
                     "owner": "samchon",
                     "repo": "nestia",
-                    "stars": 2172,
+                    "stars": 2173,
                     "topics": [
                       "agent",
                       "ai",
@@ -1657,11 +1657,11 @@
                 "id": 80945428,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T20:14:20Z",
-                "open_issues": 22,
+                "last_commit": "2026-08-29T17:44:16Z",
+                "open_issues": 21,
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76484,
+                "stars": 76497,
                 "topics": [
                   "framework",
                   "hacktoberfest",
@@ -1789,7 +1789,7 @@
                 "id": 988222683,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-08-28T23:24:44Z",
+                "last_commit": "2026-08-29T14:37:15Z",
                 "open_issues": 2,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
@@ -1899,15 +1899,15 @@
               "repo_info": {
                 "archived": false,
                 "description": "Independent, unofficial CLI to edit CapCut and JianYing projects — subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, reads draft_content.json directly. Not affiliated with ByteDance.",
-                "homepage": "https://renezander.com",
+                "homepage": "https://www.npmjs.com/package/capcut-cli",
                 "id": 1209237271,
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T12:24:03Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "renezander030",
                 "repo": "capcut-cli",
-                "stars": 387,
+                "stars": 388,
                 "topics": [
                   "automation",
                   "capcut",
@@ -2166,7 +2166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:16:58.385Z",
+    "last_updated": "2026-08-29T20:06:02.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome TypeScript resources for client-side and server-side development",
