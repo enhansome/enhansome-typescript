@@ -32,7 +32,7 @@
       * [Awesome](#awesome)
   * [TypeScript Starters/Boilerplates](#typescript-startersboilerplates)
   * [TypeScript Design patterns](#typescript-design-patterns)
-  * [TypeScript Real World Design Patterns](https://github.com/vahidvdn/realworld-design-patterns) ⭐ 329 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-15
+  * [TypeScript Real World Design Patterns](https://github.com/vahidvdn/realworld-design-patterns) ⭐ 328 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-15
   * [TypeScript Videos](#typescript-videos)
     * [Chinese](#chinese-1)
     * [English](#english-1)
@@ -67,7 +67,7 @@
 
 ### Features
 
-* [Microsoft - TypeScript 2.4 新特性一览](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript) ⭐ 110,787 | 🐛 5,175 | 🌐 Go | 📅 2026-08-29
+* [Microsoft - TypeScript 2.4 新特性一览](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript) ⭐ 110,819 | 🐛 5,171 | 🌐 Go | 📅 2026-08-31
 * [Neal1991 - 采用 Flow 以及 TypeScript](https://github.com/neal1991/articles-translator/blob/master/%E9%87%87%E7%94%A8Flow%E4%BB%A5%E5%8F%8ATypeScript.md) ⭐ 621 | 🐛 0 | 📅 2026-04-06
 * [蚂蚁金服数据体验技术团队 - TypeScript 体系调研报告](https://juejin.im/post/59c46bc86fb9a00a4636f939)
 * [Vilicvane - TypeScript 2.0 新特性一览](https://zhuanlan.zhihu.com/p/21629069)
@@ -228,8 +228,8 @@
 
 #### Guide
 
-* [sw-yx - react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) ⭐ 47,098 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-29
-* [piotrwitek - react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) ⭐ 13,265 | 🐛 99 | 🌐 TypeScript | 📅 2026-05-09
+* [sw-yx - react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) ⭐ 47,096 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-29
+* [piotrwitek - react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) ⭐ 13,264 | 🐛 99 | 🌐 TypeScript | 📅 2026-05-09
 * [labs42io - clean-code-typescript](https://labs42io.github.io/clean-code-typescript)
 
 #### Awesome
@@ -239,7 +239,7 @@
 
 ## TypeScript Starters/Boilerplates
 
-* [Kriasoft - React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,673 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-23
+* [Kriasoft - React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,674 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-31
 * [Microsoft - TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) ⚠️ Archived
 * [Microsoft - TypeScript-Vue-Starter](https://github.com/Microsoft/TypeScript-Vue-Starter) ⚠️ Archived
 * [wmonk - create-react-app-typescript](https://github.com/wmonk/create-react-app-typescript) ⚠️ Archived
@@ -249,7 +249,7 @@
 * [Microsoft - TypeScript-Babel-Starter](https://github.com/Microsoft/TypeScript-Babel-Starter) ⚠️ Archived
 * [Microsoft - TypeScript-React-Native-Starter](https://github.com/Microsoft/TypeScript-React-Native-Starter) ⚠️ Archived
 * [rokoroku - react-redux-typescript-boilerplate](https://github.com/rokoroku/react-redux-typescript-boilerplate) ⭐ 1,189 | 🐛 39 | 🌐 TypeScript | 📅 2023-05-28
-* [Marve10s - better-fullstack](https://github.com/Marve10s/Better-Fullstack) ⭐ 726 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-30 - End-to-end fullstack scaffolding across TypeScript, Rust, Python & Go — code ready for you or your AI agent.
+* [Marve10s - better-fullstack](https://github.com/Marve10s/Better-Fullstack) ⭐ 727 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-31 - End-to-end fullstack scaffolding across TypeScript, Rust, Python & Go — code ready for you or your AI agent.
 * [Microsoft - TypeScript-WeChat-Starter](https://github.com/Microsoft/TypeScript-WeChat-Starter) ⚠️ Archived
 * [blove - typescript-express-starter](https://github.com/blove/typescript-express-starter) ⭐ 276 | 🐛 1 | 🌐 TypeScript | 📅 2018-05-28
 * [kamahl19 - react-starter](https://github.com/Kamahl19/react-starter) ⭐ 104 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-01
@@ -342,7 +342,7 @@
 
 #### webpack
 
-* [TypeStrong - ts-loader](https://github.com/TypeStrong/ts-loader) ⭐ 3,479 | 🐛 71 | 🌐 TypeScript | 📅 2026-08-30
+* [TypeStrong - ts-loader](https://github.com/TypeStrong/ts-loader) ⭐ 3,479 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-31
 * [s-panferov - awesome-typescript-loader](https://github.com/s-panferov/awesome-typescript-loader) ⚠️ Archived
 
 #### gulp
@@ -355,21 +355,21 @@
 
 #### compiler
 
-* [AssemblyScript - assemblyscript](https://github.com/AssemblyScript/assemblyscript) ⭐ 17,995 | 🐛 201 | 🌐 WebAssembly | 📅 2026-07-22
-* [TypeStrong - ts-node](https://github.com/TypeStrong/ts-node) ⭐ 13,127 | 🐛 232 | 🌐 TypeScript | 📅 2024-07-18
-* [bcherny - json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) ⭐ 3,341 | 🐛 159 | 🌐 TypeScript | 📅 2026-08-30
+* [AssemblyScript - assemblyscript](https://github.com/AssemblyScript/assemblyscript) ⭐ 17,997 | 🐛 201 | 🌐 WebAssembly | 📅 2026-07-22
+* [TypeStrong - ts-node](https://github.com/TypeStrong/ts-node) ⭐ 13,128 | 🐛 232 | 🌐 TypeScript | 📅 2024-07-18
+* [bcherny - json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) ⭐ 3,341 | 🐛 160 | 🌐 TypeScript | 📅 2026-08-30
 * [YousefED - typescript-json-schema](https://github.com/YousefED/typescript-json-schema) ⭐ 3,267 | 🐛 189 | 🌐 TypeScript | 📅 2026-07-14
 * [tsconfig.json Generator](https://draftkit.co/dev-launch-pack/tsconfig-generator.html) - Free browser tool that generates a ready-to-commit `tsconfig.json` from presets (React+Vite, Next.js, Node, Library) or custom options, including strict-mode flags, JSX, moduleResolution, path aliases, and composite/project references.
 
 #### linter
 
 * [palantir - tslint](https://github.com/palantir/tslint) ⚠️ Archived
-* [Open Code Review](https://github.com/raye-deng/open-code-review) ⭐ 36 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-16 - AI code quality gate detecting hallucinated packages, phantom dependencies, stale APIs, and AI-specific code defects. MCP Server + CLI + CI/CD.
+* [Open Code Review](https://github.com/raye-deng/open-code-review) ⭐ 37 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-16 - AI code quality gate detecting hallucinated packages, phantom dependencies, stale APIs, and AI-specific code defects. MCP Server + CLI + CI/CD.
 * [ESLint](https://eslint.org/)
 
 ### Ioc
 
-* [Inversify - InversifyJS](https://github.com/inversify/InversifyJS) ⭐ 12,076 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-19
+* [Inversify - InversifyJS](https://github.com/inversify/InversifyJS) ⭐ 12,077 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-19
 * [Inversify - inversify-express-example](https://github.com/inversify/inversify-express-example) ⚠️ Archived
 * [InferDI](https://github.com/inferdi/inferdi) ⭐ 74 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-25 - Type-safe, decorator-free dependency injection container for modern TypeScript with framework adapters.
 * [Injex Framework](https://www.injex.dev)
@@ -377,25 +377,25 @@
 
 ### Doc
 
-* [TypeStrong - typedoc](https://github.com/TypeStrong/typedoc) ⭐ 8,448 | 🐛 17 | 🌐 TypeScript | 📅 2026-07-13
+* [TypeStrong - typedoc](https://github.com/TypeStrong/typedoc) ⭐ 8,449 | 🐛 17 | 🌐 TypeScript | 📅 2026-07-13
 
 ### Data Structure
 
-* [dcodeIO - protobuf.js](https://github.com/dcodeIO/protobuf.js) ⭐ 10,585 | 🐛 83 | 🌐 JavaScript | 📅 2026-08-27
+* [dcodeIO - protobuf.js](https://github.com/dcodeIO/protobuf.js) ⭐ 10,583 | 🐛 83 | 🌐 JavaScript | 📅 2026-08-27
 * [basarat - typescript-collections](https://github.com/basarat/typescript-collections) ⭐ 1,206 | 🐛 12 | 🌐 TypeScript | 📅 2023-01-12
 * [samchon - tstl](https://github.com/samchon/tstl) ⭐ 631 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-22
 * [smoren - itertools-ts](https://github.com/Smoren/itertools-ts) ⭐ 92 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-18
 
 ### Database
 
-* [Typeorm - typeorm](https://github.com/typeorm/typeorm) ⭐ 36,637 | 🐛 618 | 🌐 TypeScript | 📅 2026-08-27
+* [Typeorm - typeorm](https://github.com/typeorm/typeorm) ⭐ 36,640 | 🐛 619 | 🌐 TypeScript | 📅 2026-08-27
   * [samchon - safe-typeorm](https://github.com/samchon/safe-typeorm) ⚠️ Archived
-* [MikroORM](https://github.com/mikro-orm/mikro-orm) ⭐ 9,192 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-30
+* [MikroORM](https://github.com/mikro-orm/mikro-orm) ⭐ 9,194 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-31
 * [RobinBuschmann - sequelize-typescript](https://github.com/RobinBuschmann/sequelize-typescript) ⭐ 2,839 | 🐛 264 | 🌐 TypeScript | 📅 2024-04-20
 
 ### Server
 
-* [kamilmysliwiec - nest](https://github.com/nestjs/nest) ⭐ 76,511 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-30
+* [kamilmysliwiec - nest](https://github.com/nestjs/nest) ⭐ 76,538 | 🐛 28 | 🌐 TypeScript | 📅 2026-08-31
   * [samchon - nestia](https://github.com/samchon/nestia) ⭐ 2,174 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-25
 * [welefen - thinkjs](https://github.com/thinkjs/thinkjs) ⭐ 5,268 | 🐛 145 | 🌐 JavaScript | 📅 2026-08-07
 * [samchon - tgrid](https://github.com/samchon/tgrid) ⭐ 167 | 🐛 4 | 🌐 TypeScript | 📅 2025-12-18
@@ -404,18 +404,18 @@
 
 ### Utility
 
-* [Markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 2,972 | 🐛 3 | 🌐 Vue | 📅 2026-08-30 - Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 packages plus Mermaid, KaTeX, syntax highlighting, safe HTML, and SSR support.
+* [Markstream](https://github.com/Simon-He95/markstream-vue) ⭐ 2,977 | 🐛 2 | 🌐 Vue | 📅 2026-08-31 - Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 packages plus Mermaid, KaTeX, syntax highlighting, safe HTML, and SSR support.
 * [csv-pipe](https://github.com/martsinlabs/csv-pipe) ⭐ 13 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-28
 * [PigmentTS](https://github.com/Jay-Karia/pigment-ts) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2025-02-04
 * [JSON to TypeScript](https://nutilz.com/json-to-typescript) - Free online tool that converts JSON objects into TypeScript interfaces and types, no signup required.
 
 ### CLI
 
-* [capcut-cli](https://github.com/renezander030/capcut-cli) ⭐ 395 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-30
+* [capcut-cli](https://github.com/renezander030/capcut-cli) ⭐ 400 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-31
 
 - [reflow](https://github.com/valtors/reflow) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-30 - SSR-safe responsive toolkit for TypeScript. Breakpoints, container queries, fluid typography, and user preference hooks. Works across React, Vue, Svelte, Solid, Qwik, Preact, Angular, and Lit.
 
-* [Tura](https://github.com/Tura-AI/tura) ⭐ 607 | 🐛 3 | 🌐 Rust | 📅 2026-08-20 - Build agent that uses 80% less token and delivers better results.
+* [Tura](https://github.com/Tura-AI/tura) ⭐ 608 | 🐛 3 | 🌐 Rust | 📅 2026-08-20 - Build agent that uses 80% less token and delivers better results.
 
 ## TypeScript IDE
 
@@ -463,4 +463,4 @@ We welcome your contributions 🌺
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
