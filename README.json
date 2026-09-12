@@ -17,11 +17,11 @@
                 "id": 20929025,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T18:07:29Z",
-                "open_issues": 5058,
+                "last_commit": "2026-09-12T00:32:38Z",
+                "open_issues": 5061,
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 111003,
+                "stars": 111012,
                 "topics": [
                   "javascript",
                   "language",
@@ -147,7 +147,7 @@
                     "open_issues": 36,
                     "owner": "microsoft",
                     "repo": "TypeScriptSamples",
-                    "stars": 3182,
+                    "stars": 3183,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
@@ -430,11 +430,11 @@
             "id": 18840003,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T04:15:27Z",
+            "last_commit": "2026-09-12T13:42:17Z",
             "open_issues": 9,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23676,
+            "stars": 23677,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -476,7 +476,7 @@
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11023,
+            "stars": 11022,
             "topics": []
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
@@ -497,7 +497,7 @@
             "open_issues": 34,
             "owner": "microsoft",
             "repo": "TypeScript-Vue-Starter",
-            "stars": 4418,
+            "stars": 4417,
             "topics": []
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
@@ -620,7 +620,7 @@
             "open_issues": 0,
             "owner": "jsynowiec",
             "repo": "node-typescript-boilerplate",
-            "stars": 2956,
+            "stars": 2957,
             "topics": [
               "back-end",
               "backend",
@@ -734,7 +734,7 @@
             "open_issues": 1,
             "owner": "Marve10s",
             "repo": "Better-Fullstack",
-            "stars": 741,
+            "stars": 743,
             "topics": [
               "boilerplate",
               "cli",
@@ -1061,7 +1061,7 @@
                     "open_issues": 232,
                     "owner": "TypeStrong",
                     "repo": "ts-node",
-                    "stars": 13125,
+                    "stars": 13124,
                     "topics": [
                       "hacktoberfest",
                       "nodejs",
@@ -1092,7 +1092,7 @@
                     "open_issues": 139,
                     "owner": "bcherny",
                     "repo": "json-schema-to-typescript",
-                    "stars": 3348,
+                    "stars": 3347,
                     "topics": [
                       "json-schema",
                       "typescript"
@@ -1225,7 +1225,7 @@
                 "open_issues": 2,
                 "owner": "inversify",
                 "repo": "InversifyJS",
-                "stars": 12069,
+                "stars": 12067,
                 "topics": [
                   "dependency-injection",
                   "inversifyjs",
@@ -1350,7 +1350,7 @@
                 "open_issues": 88,
                 "owner": "protobufjs",
                 "repo": "protobuf.js",
-                "stars": 10586,
+                "stars": 10588,
                 "topics": [
                   "javascript",
                   "protobuf",
@@ -1505,10 +1505,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T07:22:38Z",
-                "open_issues": 640,
+                "open_issues": 642,
                 "owner": "typeorm",
                 "repo": "typeorm",
-                "stars": 36653,
+                "stars": 36650,
                 "topics": [
                   "active-record",
                   "cockroachdb",
@@ -1540,11 +1540,11 @@
                 "id": 125342064,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T14:00:57Z",
+                "last_commit": "2026-09-11T21:00:59Z",
                 "open_issues": 15,
                 "owner": "mikro-orm",
                 "repo": "mikro-orm",
-                "stars": 9216,
+                "stars": 9217,
                 "topics": [
                   "database",
                   "datamapper",
@@ -1625,7 +1625,7 @@
                     "open_issues": 7,
                     "owner": "samchon",
                     "repo": "nestia",
-                    "stars": 2177,
+                    "stars": 2178,
                     "topics": [
                       "agent",
                       "ai",
@@ -1658,10 +1658,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-11T09:25:03Z",
-                "open_issues": 65,
+                "open_issues": 72,
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76642,
+                "stars": 76647,
                 "topics": [
                   "framework",
                   "hacktoberfest",
@@ -1789,11 +1789,11 @@
                 "id": 988222683,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-11T10:32:04Z",
+                "last_commit": "2026-09-12T07:09:59Z",
                 "open_issues": 2,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 3004,
+                "stars": 3006,
                 "topics": [
                   "ai",
                   "ai-chat",
@@ -1903,11 +1903,11 @@
                 "id": 1209237271,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T15:53:22Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-12T05:25:14Z",
+                "open_issues": 4,
                 "owner": "renezander030",
                 "repo": "capcut-cli",
-                "stars": 451,
+                "stars": 457,
                 "topics": [
                   "automation",
                   "capcut",
@@ -1982,11 +1982,11 @@
                 "id": 1291098094,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-10T10:55:24Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-12T11:18:56Z",
+                "open_issues": 1,
                 "owner": "Tura-AI",
                 "repo": "tura",
-                "stars": 623,
+                "stars": 627,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -2166,7 +2166,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T20:09:59.905Z",
+    "last_updated": "2026-09-12T19:48:07.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome TypeScript resources for client-side and server-side development",
@@ -2178,7 +2178,7 @@
       "open_issues": 111,
       "owner": "semlinker",
       "repo": "awesome-typescript",
-      "stars": 4048,
+      "stars": 4049,
       "topics": [
         "awesome-list",
         "react-typescripts",
