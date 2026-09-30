@@ -17,11 +17,11 @@
                 "id": 20929025,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T21:30:30Z",
-                "open_issues": 5047,
+                "last_commit": "2026-09-30T21:34:26Z",
+                "open_issues": 5043,
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 111272,
+                "stars": 111288,
                 "topics": [
                   "javascript",
                   "language",
@@ -93,7 +93,7 @@
                     "open_issues": 181,
                     "owner": "microsoft",
                     "repo": "TypeScript-Handbook",
-                    "stars": 4851,
+                    "stars": 4850,
                     "topics": [
                       "documentation",
                       "learn",
@@ -308,7 +308,7 @@
                     "open_issues": 0,
                     "owner": "typescript-cheatsheets",
                     "repo": "react",
-                    "stars": 47093,
+                    "stars": 47095,
                     "topics": [
                       "cheatsheet",
                       "guide",
@@ -434,7 +434,7 @@
             "open_issues": 9,
             "owner": "kriasoft",
             "repo": "react-starter-kit",
-            "stars": 23689,
+            "stars": 23688,
             "topics": [
               "better-auth",
               "boilerplate",
@@ -518,7 +518,7 @@
             "open_issues": 119,
             "owner": "wmonk",
             "repo": "create-react-app-typescript",
-            "stars": 3676,
+            "stars": 3675,
             "topics": [
               "create-react-app",
               "frontend",
@@ -683,7 +683,7 @@
             "open_issues": 43,
             "owner": "microsoft",
             "repo": "TypeScript-React-Native-Starter",
-            "stars": 1893,
+            "stars": 1892,
             "topics": []
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
@@ -730,8 +730,8 @@
             "id": 1134202023,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T18:01:06Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-30T14:04:01Z",
+            "open_issues": 1,
             "owner": "Marve10s",
             "repo": "Better-Fullstack",
             "stars": 753,
@@ -1092,7 +1092,7 @@
                     "open_issues": 139,
                     "owner": "bcherny",
                     "repo": "json-schema-to-typescript",
-                    "stars": 3347,
+                    "stars": 3346,
                     "topics": [
                       "json-schema",
                       "typescript"
@@ -1144,7 +1144,7 @@
                     "open_issues": 1,
                     "owner": "palantir",
                     "repo": "tslint",
-                    "stars": 5900,
+                    "stars": 5899,
                     "topics": [
                       "linter",
                       "linting-rules",
@@ -1225,7 +1225,7 @@
                 "open_issues": 2,
                 "owner": "inversify",
                 "repo": "InversifyJS",
-                "stars": 12063,
+                "stars": 12062,
                 "topics": [
                   "dependency-injection",
                   "inversifyjs",
@@ -1282,7 +1282,7 @@
                 "open_issues": 2,
                 "owner": "inferdi",
                 "repo": "inferdi",
-                "stars": 82,
+                "stars": 83,
                 "topics": [
                   "container",
                   "dependency-injection",
@@ -1318,7 +1318,7 @@
                 "open_issues": 19,
                 "owner": "TypeStrong",
                 "repo": "typedoc",
-                "stars": 8452,
+                "stars": 8453,
                 "topics": [
                   "documentation",
                   "generator",
@@ -1350,7 +1350,7 @@
                 "open_issues": 95,
                 "owner": "protobufjs",
                 "repo": "protobuf.js",
-                "stars": 10595,
+                "stars": 10596,
                 "topics": [
                   "javascript",
                   "protobuf",
@@ -1484,7 +1484,7 @@
                     "open_issues": 3,
                     "owner": "samchon",
                     "repo": "safe-typeorm",
-                    "stars": 227,
+                    "stars": 226,
                     "topics": [
                       "compilation",
                       "orm",
@@ -1504,11 +1504,11 @@
                 "id": 52773157,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-21T08:49:54Z",
-                "open_issues": 681,
+                "last_commit": "2026-09-30T20:59:35Z",
+                "open_issues": 680,
                 "owner": "typeorm",
                 "repo": "typeorm",
-                "stars": 36658,
+                "stars": 36656,
                 "topics": [
                   "active-record",
                   "cockroachdb",
@@ -1540,11 +1540,11 @@
                 "id": 125342064,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T18:51:13Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-30T15:43:36Z",
+                "open_issues": 16,
                 "owner": "mikro-orm",
                 "repo": "mikro-orm",
-                "stars": 9244,
+                "stars": 9245,
                 "topics": [
                   "database",
                   "datamapper",
@@ -1621,8 +1621,8 @@
                     "id": 331251676,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-26T04:42:09Z",
-                    "open_issues": 8,
+                    "last_commit": "2026-09-30T13:48:58Z",
+                    "open_issues": 16,
                     "owner": "samchon",
                     "repo": "nestia",
                     "stars": 2178,
@@ -1657,11 +1657,11 @@
                 "id": 80945428,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T19:41:48Z",
-                "open_issues": 36,
+                "last_commit": "2026-09-30T12:33:46Z",
+                "open_issues": 30,
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76759,
+                "stars": 76772,
                 "topics": [
                   "framework",
                   "hacktoberfest",
@@ -1789,7 +1789,7 @@
                 "id": 988222683,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-29T11:06:12Z",
+                "last_commit": "2026-09-30T10:34:49Z",
                 "open_issues": 1,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
@@ -1834,7 +1834,7 @@
                 "open_issues": 4,
                 "owner": "martsinlabs",
                 "repo": "csv-pipe",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "bun",
                   "csv",
@@ -1907,7 +1907,7 @@
                 "open_issues": 3,
                 "owner": "renezander030",
                 "repo": "capcut-cli",
-                "stars": 808,
+                "stars": 813,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -2085,7 +2085,7 @@
                     "open_issues": 39,
                     "owner": "ananthakumaran",
                     "repo": "tide",
-                    "stars": 1476,
+                    "stars": 1475,
                     "topics": [
                       "emacs",
                       "typescript"
@@ -2144,7 +2144,7 @@
                     "open_issues": 62,
                     "owner": "OctoLinker",
                     "repo": "OctoLinker",
-                    "stars": 5388,
+                    "stars": 5387,
                     "topics": [
                       "browser-extension",
                       "github",
@@ -2170,7 +2170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:36:21.499Z",
+    "last_updated": "2026-09-30T21:36:45.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome TypeScript resources for client-side and server-side development",
