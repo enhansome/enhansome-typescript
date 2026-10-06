@@ -17,8 +17,8 @@
                 "id": 20929025,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T09:21:46Z",
-                "open_issues": 5072,
+                "last_commit": "2026-10-06T19:09:27Z",
+                "open_issues": 5076,
                 "owner": "microsoft",
                 "repo": "TypeScript",
                 "stars": 111368,
@@ -93,7 +93,7 @@
                     "open_issues": 181,
                     "owner": "microsoft",
                     "repo": "TypeScript-Handbook",
-                    "stars": 4850,
+                    "stars": 4849,
                     "topics": [
                       "documentation",
                       "learn",
@@ -334,7 +334,7 @@
                     "open_issues": 100,
                     "owner": "piotrwitek",
                     "repo": "react-redux-typescript-guide",
-                    "stars": 13256,
+                    "stars": 13257,
                     "topics": [
                       "flow",
                       "guide",
@@ -476,7 +476,7 @@
             "open_issues": 196,
             "owner": "microsoft",
             "repo": "TypeScript-React-Starter",
-            "stars": 11016,
+            "stars": 11015,
             "topics": []
           },
           "first_seen": "2026-08-29T01:15:29.800Z"
@@ -545,7 +545,7 @@
             "open_issues": 34,
             "owner": "bitjson",
             "repo": "typescript-starter",
-            "stars": 3542,
+            "stars": 3541,
             "topics": [
               "ava",
               "boilerplate",
@@ -579,7 +579,7 @@
             "open_issues": 97,
             "owner": "w3tecch",
             "repo": "express-typescript-boilerplate",
-            "stars": 3412,
+            "stars": 3411,
             "topics": [
               "annotations",
               "boilerplate",
@@ -620,7 +620,7 @@
             "open_issues": 0,
             "owner": "jsynowiec",
             "repo": "node-typescript-boilerplate",
-            "stars": 2957,
+            "stars": 2956,
             "topics": [
               "back-end",
               "backend",
@@ -730,11 +730,11 @@
             "id": 1134202023,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T19:07:36Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-06T20:58:32Z",
+            "open_issues": 4,
             "owner": "Marve10s",
             "repo": "Better-Fullstack",
-            "stars": 751,
+            "stars": 752,
             "topics": [
               "boilerplate",
               "cli",
@@ -916,7 +916,7 @@
                     "open_issues": 72,
                     "owner": "TypeStrong",
                     "repo": "ts-loader",
-                    "stars": 3480,
+                    "stars": 3481,
                     "topics": [
                       "loader",
                       "typescript",
@@ -1034,7 +1034,7 @@
                     "open_issues": 212,
                     "owner": "AssemblyScript",
                     "repo": "assemblyscript",
-                    "stars": 18032,
+                    "stars": 18031,
                     "topics": [
                       "assemblyscript",
                       "compiler",
@@ -1092,7 +1092,7 @@
                     "open_issues": 139,
                     "owner": "bcherny",
                     "repo": "json-schema-to-typescript",
-                    "stars": 3345,
+                    "stars": 3346,
                     "topics": [
                       "json-schema",
                       "typescript"
@@ -1116,7 +1116,7 @@
                     "open_issues": 188,
                     "owner": "YousefED",
                     "repo": "typescript-json-schema",
-                    "stars": 3266,
+                    "stars": 3267,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
@@ -1350,7 +1350,7 @@
                 "open_issues": 98,
                 "owner": "protobufjs",
                 "repo": "protobuf.js",
-                "stars": 10598,
+                "stars": 10599,
                 "topics": [
                   "javascript",
                   "protobuf",
@@ -1397,7 +1397,7 @@
                 "open_issues": 3,
                 "owner": "samchon",
                 "repo": "tstl",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "algorithm",
                   "collection",
@@ -1430,7 +1430,7 @@
                 "open_issues": 14,
                 "owner": "Smoren",
                 "repo": "itertools-ts",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "async-iterable",
                   "async-iterables",
@@ -1505,7 +1505,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-04T20:06:50Z",
-                "open_issues": 693,
+                "open_issues": 695,
                 "owner": "typeorm",
                 "repo": "typeorm",
                 "stars": 36662,
@@ -1540,8 +1540,8 @@
                 "id": 125342064,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:39:17Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-06T16:51:32Z",
+                "open_issues": 17,
                 "owner": "mikro-orm",
                 "repo": "mikro-orm",
                 "stars": 9245,
@@ -1622,7 +1622,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-04T07:51:23Z",
-                    "open_issues": 7,
+                    "open_issues": 8,
                     "owner": "samchon",
                     "repo": "nestia",
                     "stars": 2179,
@@ -1658,10 +1658,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-05T19:59:23Z",
-                "open_issues": 50,
+                "open_issues": 52,
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76793,
+                "stars": 76796,
                 "topics": [
                   "framework",
                   "hacktoberfest",
@@ -1793,7 +1793,7 @@
                 "open_issues": 1,
                 "owner": "Simon-He95",
                 "repo": "markstream-vue",
-                "stars": 3026,
+                "stars": 3025,
                 "topics": [
                   "ai",
                   "ai-chat",
@@ -1946,7 +1946,7 @@
                 "open_issues": 1,
                 "owner": "renezander030",
                 "repo": "capcut-cli",
-                "stars": 831,
+                "stars": 832,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -2029,7 +2029,7 @@
                 "open_issues": 5,
                 "owner": "Tura-AI",
                 "repo": "tura",
-                "stars": 651,
+                "stars": 653,
                 "topics": [
                   "agent",
                   "agentic-ai",
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:55:13.157Z",
+    "last_updated": "2026-10-06T21:58:01.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome TypeScript resources for client-side and server-side development",
