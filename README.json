@@ -17,11 +17,11 @@
                 "id": 20929025,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T20:50:02Z",
-                "open_issues": 5073,
+                "last_commit": "2026-10-06T09:21:46Z",
+                "open_issues": 5072,
                 "owner": "microsoft",
                 "repo": "TypeScript",
-                "stars": 111354,
+                "stars": 111368,
                 "topics": [
                   "javascript",
                   "language",
@@ -308,7 +308,7 @@
                     "open_issues": 0,
                     "owner": "typescript-cheatsheets",
                     "repo": "react",
-                    "stars": 47096,
+                    "stars": 47093,
                     "topics": [
                       "cheatsheet",
                       "guide",
@@ -334,7 +334,7 @@
                     "open_issues": 100,
                     "owner": "piotrwitek",
                     "repo": "react-redux-typescript-guide",
-                    "stars": 13257,
+                    "stars": 13256,
                     "topics": [
                       "flow",
                       "guide",
@@ -372,7 +372,7 @@
                     "open_issues": 3,
                     "owner": "dzharii",
                     "repo": "awesome-typescript",
-                    "stars": 5113,
+                    "stars": 5114,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:15:29.800Z"
@@ -1061,7 +1061,7 @@
                     "open_issues": 231,
                     "owner": "TypeStrong",
                     "repo": "ts-node",
-                    "stars": 13120,
+                    "stars": 13119,
                     "topics": [
                       "hacktoberfest",
                       "nodejs",
@@ -1225,7 +1225,7 @@
                 "open_issues": 2,
                 "owner": "inversify",
                 "repo": "InversifyJS",
-                "stars": 12061,
+                "stars": 12060,
                 "topics": [
                   "dependency-injection",
                   "inversifyjs",
@@ -1540,11 +1540,11 @@
                 "id": 125342064,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T21:34:43Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-06T10:39:17Z",
+                "open_issues": 18,
                 "owner": "mikro-orm",
                 "repo": "mikro-orm",
-                "stars": 9244,
+                "stars": 9245,
                 "topics": [
                   "database",
                   "datamapper",
@@ -1658,10 +1658,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-05T19:59:23Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "nestjs",
                 "repo": "nest",
-                "stars": 76792,
+                "stars": 76793,
                 "topics": [
                   "framework",
                   "hacktoberfest",
@@ -1946,7 +1946,7 @@
                 "open_issues": 1,
                 "owner": "renezander030",
                 "repo": "capcut-cli",
-                "stars": 828,
+                "stars": 831,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -2209,7 +2209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:25:50.632Z",
+    "last_updated": "2026-10-06T10:55:13.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome TypeScript resources for client-side and server-side development",
@@ -2218,10 +2218,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-03T01:26:40Z",
-      "open_issues": 116,
+      "open_issues": 117,
       "owner": "semlinker",
       "repo": "awesome-typescript",
-      "stars": 4049,
+      "stars": 4050,
       "topics": [
         "awesome-list",
         "react-typescripts",
